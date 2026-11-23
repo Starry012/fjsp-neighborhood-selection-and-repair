@@ -1,0 +1,18 @@
+{
+  "benchmark_return_sha256": "a82e810cf62dcf9e9fad57577426ecd6ae9470814c40ca4202caf5c3702dc266",
+  "case_order": "original final interleaved order",
+  "frozen_bundle_sha256": "38574658482af84c9653cb7ef676714a068194de75842b06de140736a47133cc",
+  "observations_sha256": "9316e4ee65c2cdc5d4f6f2531d91b8008db2aa5288bb252bba07839962733a6e",
+  "other_tree": "retain as secondary",
+  "retry": "up to 3 new completed exclusions per block and session, up to 2 engineering failures; resume preserves qualified pairs",
+  "selection": "48-case median of within-case three-seed median of 100*(Count5-Count10)/Count5; >0: 10, else: 5",
+  "selector_at_test": "frozen",
+  "stages": [
+    "count",
+    "tree"
+  ],
+  "switches_s": [
+    5,
+    10
+  ]
+}

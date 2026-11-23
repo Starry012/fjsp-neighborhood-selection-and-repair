@@ -1,0 +1,155 @@
+{
+  "GPU_compute": false,
+  "active_cp_source_sha256": "c13a9dee934d83d64f952fc74059f9c1832a11174cbbc04d892a7f0daa6801c0",
+  "active_seconds": 21600,
+  "call_fields": [
+    "slot",
+    "instance",
+    "method",
+    "seed",
+    "call",
+    "operator",
+    "released",
+    "anchor_Cmax",
+    "selection_seconds",
+    "native_status",
+    "CP_request_seconds",
+    "after_Cmax",
+    "local_target_exceeded",
+    "phase",
+    "rho",
+    "target_seconds",
+    "choice_reason",
+    "pool_size",
+    "pool_all_zero",
+    "pool_unique_groups",
+    "selected_lower_bound",
+    "selected_gap_fraction",
+    "selected_certified_zero",
+    "eligible_count",
+    "pool_summary",
+    "selected_slot",
+    "eligible_options_by_slot",
+    "check_state",
+    "threshold_pct",
+    "checkpoint_ms",
+    "decision_ms",
+    "native_enter_ms",
+    "native_exit_ms",
+    "requested_stop",
+    "stop_latency_ms",
+    "draw",
+    "published_gain",
+    "upper0",
+    "upper1",
+    "lower0",
+    "lower1",
+    "gap0",
+    "gap1",
+    "shrink_pct",
+    "static_lower",
+    "bound_events",
+    "receipt_count"
+  ],
+  "chuffed_sha256": "c1e7857ef44e5f44b5fd1101c733a1ac8abdb5e1fff9aa69dc5add48cbd1e7d4",
+  "cpu_policy": {
+    "global_lock": "run-workspace/locks/random-acquisition.lock",
+    "lock_directory": "run-workspace/locks",
+    "max_initial_sibling_busy_percent": 10
+  },
+  "download_limit_bytes": 30000000,
+  "expected_server_versions": {
+    "numpy": "2.5.4",
+    "ortools": "9.15.6755",
+    "python": "3.14.10"
+  },
+  "formal_test_opened": false,
+  "learned_reward_updates": false,
+  "manual_attempt_cap_per_slot": 2,
+  "methods": [
+    "Stall35-MinOptions2",
+    "MinOptions2",
+    "Stall80",
+    "Stall20-MinOptions2",
+    "Stall35-Tree2WithoutClock",
+    "Tree2WithoutClock",
+    "active-strict",
+    "full-cp-sat-hinted",
+    "Chuffed"
+  ],
+  "minizinc_sha256": "a8e6babd0808cf6da49345048cc9dca542a5cca9007527e226e4e7328d36bce9",
+  "output_limit_bytes": 24000000000,
+  "pool_rule": {
+    "exact_ties": "uniform",
+    "half_slots": [
+      "small-window",
+      "small-block"
+    ],
+    "one_CP_per_selected_group": true,
+    "version": "eight-clipped-v1"
+  },
+  "protocol": "final60-v1-exit-recovery",
+  "resource_interval_seconds": 600,
+  "run_name": "final-60s-benchmark-recovery-20261121",
+  "runtime": {
+    "candidate_stage": true,
+    "decision_offset_ms": 2000,
+    "guard": {
+      "poll_ms": 10,
+      "publish_reserve_ms": 1200,
+      "return_reserve_ms": 100,
+      "stop_reserve_ms": 600
+    },
+    "late_phase_ms": 30000,
+    "lookback_ms": 500,
+    "max_calls": null,
+    "minimum_remaining_ms": 100,
+    "repair_target_ms": 3000,
+    "rho": 0.2,
+    "rho_max": 1.0,
+    "rho_min": 0.05,
+    "scale_delta": 0.1,
+    "scale_window": 20,
+    "time_max_seconds": 3,
+    "time_min_seconds": 1,
+    "total_ms": 60000,
+    "variants": {
+      "MinOptions2": {
+        "adaptive_rho": true,
+        "adaptive_time": false,
+        "family": "MinOptions2",
+        "fixed_seconds": 3,
+        "intensify": false,
+        "pool_size": 2,
+        "repair_encoding": "C",
+        "slots": [
+          "small-window",
+          "small-block"
+        ]
+      },
+      "Tree2WithoutClock": {
+        "adaptive_rho": true,
+        "adaptive_time": false,
+        "family": "tree",
+        "fixed_seconds": 3,
+        "intensify": false,
+        "model_path": "weights/tree-without-clock.json",
+        "model_sha256": "b4a6825d660f39a7d664a1cf47f8e1e40fb63b5ff73c7bcb2237df3664cbf3eb",
+        "pool_size": 2,
+        "repair_encoding": "C",
+        "slots": [
+          "small-window",
+          "small-block"
+        ]
+      }
+    },
+    "worker_finish_reserve_ms": 1200
+  },
+  "scope": "8 exposed 500-operation instances; independent 60s starts; 5s, 20s, 35s cutoffs",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "training_steps": 0
+}

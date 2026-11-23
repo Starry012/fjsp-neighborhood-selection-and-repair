@@ -1,0 +1,137 @@
+{
+  "cases": [
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke4",
+      "operations": 50,
+      "sha256": "4b840e14d81e6516a8d01a21a9bd5ef36c76b10037acf774eaaf0fe8c5b59b4d"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke1",
+      "operations": 50,
+      "sha256": "4fc01e0a7384c7d4511527068335a91cc86d91179d0fb34606ac17e2c76a2579"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke45",
+      "operations": 50,
+      "sha256": "cd0f08698a31cc9054ea0999d7ae103a649189fdf75676705bac0e066bd25b93"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke50",
+      "operations": 100,
+      "sha256": "82abe5257d53d4cbcb4190fad7adb189273ad4f350fd4cad74a02a4895398cd4"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke46",
+      "operations": 100,
+      "sha256": "95d733a793565ae1619f6754680ae310ac6fe627d4d86bb195045c1a39b63edc"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke28",
+      "operations": 100,
+      "sha256": "07caaf651ae7330fc22387054b46b1e0fe14fb11b0547710c5cac2b0bb0f1b8b"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke12",
+      "operations": 250,
+      "sha256": "3be957bbd4ec34c8d63627bc617bfc86d97c43c1ff6963644ae05d0084c657cb"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke13",
+      "operations": 250,
+      "sha256": "317b85199bccc82ae13fa347813d06729c138717a5764dcf514d452c811eb3ae"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke31",
+      "operations": 250,
+      "sha256": "4a4c140fbaa38adfe701b74a2cf7483e66d22c590984259819c1edf59b6228c6"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke59",
+      "operations": 500,
+      "sha256": "abbfa6a16beac4a6124be91828d6d32c922c7fa313a3bf12bce082646041d435"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke19",
+      "operations": 500,
+      "sha256": "598af5a4c8eac3d4d659eed9700529e3ab8b5f1fc992152c1783182d08f32b66"
+    },
+    {
+      "family": "BehnkeGeiger2012",
+      "instance": "behnke18",
+      "operations": 500,
+      "sha256": "1db6f7e52f8e2b50eb3c891a51851433e525409c117ad7ac0621b4a1da465180"
+    },
+    {
+      "family": "KacemHammadiBorne2002",
+      "instance": "kacem1",
+      "operations": 12,
+      "sha256": "2472c8d0651852d75b701f952df937409c967aa4c3fc048343bc15041d970323"
+    },
+    {
+      "family": "KacemHammadiBorne2002",
+      "instance": "kacem2",
+      "operations": 29,
+      "sha256": "263ad09c7bb936d08ca318605bbd01273d45cd641c4db1284499af3cba1986b1"
+    },
+    {
+      "family": "KacemHammadiBorne2002",
+      "instance": "kacem3",
+      "operations": 30,
+      "sha256": "543f8f6db60263ebec417b8dd87119e11a989911ab33efd67294e96c8b6531a2"
+    },
+    {
+      "family": "KacemHammadiBorne2002",
+      "instance": "kacem4",
+      "operations": 56,
+      "sha256": "f737a471e667c54f0a5d04dab24903bbd5d42674ea502b32c35e3e78ef729667"
+    }
+  ],
+  "checkpoint_manifest_sha256": "3f8493c9ecab66ac9ebfa466ed5e7be27dd4993bdcfcce517ccf9d3535677b6b",
+  "global_reserve_ms": 20,
+  "label_config_sha256": "a54c2ca6611cdaa2aa39ed7bcba391718cd113b589966a1d654161436bb4a702",
+  "methods": [
+    "graph",
+    "graph-no-budget",
+    "tabular",
+    "structure",
+    "random"
+  ],
+  "order_seed": 42,
+  "primary_repair_budget_ms": 200,
+  "protocol": "v3-ranker-blind-1",
+  "ranker_config_sha256": "7e71ea037ef015064a0f3ec282be58a895d089687db1d300f4fe68abaf47e35b",
+  "reference_methods": [
+    "v2-critical",
+    "full-cp-sat-hinted"
+  ],
+  "repair_budgets_ms": [
+    50,
+    200
+  ],
+  "return_reserve_ms": 5,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "smoke_instances": [
+    "dpp04a",
+    "dpp12a",
+    "dpp18a"
+  ],
+  "smoke_seed": 42,
+  "solver_seed": 42,
+  "solver_workers": 1,
+  "total_ms": 500
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.env
+.env.*
+*.log
+/data/
+/outputs/
+/runs/
+/engine/inputs/
+/engine/development/behnke*.json
+/engine/archive-bks.json
+!/engine/legacy/outputs/v3-ranker-dev/tabular-42.pt

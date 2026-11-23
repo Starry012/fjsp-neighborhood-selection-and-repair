@@ -1,0 +1,4034 @@
+[
+  {
+    "credited_Cmax": 245,
+    "instance": "behnke55",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "5fa0b6940f7dc0f141c50667ee776df592dba0bd8e9cd969f25e52716576ce9c",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 228,
+    "instance": "behnke55",
+    "method": "MinOptions2",
+    "record_sha256": "27ad8e706e9d015228bca59e7f92bcf7d2c4d22c220c6a64a02605a4192d2f3d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 240,
+    "instance": "behnke55",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "5faac183a46d22e91d2daf0162ffd226ac2720cf94c8db49bda091eba25236f0",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 232,
+    "instance": "behnke55",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ec4936ff13ba94c1bf08fe05e5425739c1cf76e40717f7c862e443bf2ee0bca3",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 229,
+    "instance": "behnke55",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "f3ad8c0b9e6358488ac2ce41dc958d6919f765a6cb6fe8f4b4ea7c1bf9a5e15f",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 243,
+    "instance": "behnke55",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "5ac33d8485006bbb5cf91b48fa8fe03b3cfc08fe0e083e115a8e80e8117e0090",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 243,
+    "instance": "behnke55",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "c3e170cc308c2b7b4b394e0377468169a313b1e624ead4f6a6658b7027fecac6",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 227,
+    "instance": "behnke55",
+    "method": "MinOptions2",
+    "record_sha256": "342cd7a8070e5f04c44f0aa21b7c2d30f9b5e3b7299220a593ac7c3b5fa52d10",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 243,
+    "instance": "behnke55",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "fdd68a9f689479d4b4988d552a5266c3e7dd918d5868e54132ab935276d44e35",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 232,
+    "instance": "behnke55",
+    "method": "MinOptions2",
+    "record_sha256": "edb1454be091a4703049bc2185246fc989b7bdc777967363b4348a14a54ed32c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 247,
+    "instance": "behnke55",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "8a13ad05e43a3e141992d86de78916eece67d9dfd0a26bc3bb8812e149883f96",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 228,
+    "instance": "behnke55",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "6274a59a84d4366263f6a2c95345751869f7003330b192dc13e9023a0f2d4391",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 541,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "da4897b64a1e15321d3b814af95de3e4d1e74d1a202ab995c3a60db1584d1189",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 552,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "MinOptions2",
+    "record_sha256": "e825e259d00e78fad28c701f9718392bba9a8109d85b246b344e6423aaabdb97",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 535,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "b42ebc7ecd277dcc1af00664aa9dc3c5f43f9e97582cad3889d83566f94be06f",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 538,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "394cae965d7823163ab68c028d8b2818c6ca26642c4be8a3a6618cc6940d3f79",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 530,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "1e742281ff8be8064f0f29362c0caefa6d2dde5264b6953a24acfca2d86ff35f",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 541,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "23524d912612f5c6595653679efaf4ff7375349073ec11f12d5b6c9c0a374c36",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 549,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "MinOptions2",
+    "record_sha256": "246382bf45109e0f2e836d21f158f4b3052f645df130c452c1861304ffd501a8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 542,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b27babcc33464f17429df6c5d880426ae4236493eab075aa787642a42160172e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 531,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "MinOptions2",
+    "record_sha256": "5ed5a694e5bea4f93d472d7818a52c46867df430cdcd833b8b4e02b6b0b5d7db",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 540,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "61e877bb7b6a6663da2ce1c60e58607e8a729dd937688335b22d1e1cd434a937",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 549,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "cab4390d98ded8fbea027573499f9f63d9da31a023469cd8eef640822c82ab76",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 548,
+    "instance": "sd2mix-test-25x10-60002",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "73e7af9886629a4f88194be6858e58209f6c1d391761ce5ec1424f380cbdff9c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1086,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "301c5d663122b97be03e2e28cefb6f0f2b8d65747e800fac5c436def95455b2a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1110,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "642d7ecbf60d9c684376661d6c76a0919a3834885f4fc74472f36a8e5bd014dc",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1100,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "a3842fd4a819fce9b47afe7e82df01c571c6dc0bed4ed2d24d5d6c1a1faeb432",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1088,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "MinOptions2",
+    "record_sha256": "62446a6090bb1bdd9229b064ebd458da4b609dfcd3ff72edcff30a58e768ace0",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1109,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "98edbb4f402226daa03a3a0de122ab9e405b8ba53e048fd5a9c6ea0e43809891",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1114,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "MinOptions2",
+    "record_sha256": "eee3e281c1a615a0fba05600ac527f001289fe47cd89e77e5a134c254beb05e9",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1136,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "84279a11a553a06e5df0de3a97208a0da6bce4d2c63d0acb4951a6941e6e5710",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1110,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "0f142e30e82c89513f9ac2315434faf5eaa915b2eb776aa5f5ded8566e1f9c76",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1077,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "93f5804f33a743a6076dd523b4f6fd06cbc13d3cc5e2467f0ba7578c7a80a645",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1081,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "MinOptions2",
+    "record_sha256": "bf4dcfb4924ee363a063032bce527ce341044604324bf6b544f41cb1736f09c3",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1082,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "3ba42c0386568fc7012089a80b84474204e13ad86b465e2e34c42dc5768a8f64",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1089,
+    "instance": "sd2mix-test-50x10-60007",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "5a36762faace23871b844b932882840a9819e3712c34b35f0e3b3c446adeaed6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 418,
+    "instance": "behnke60",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "e6353556e33067a456e2214216146655ab37b93ece2f4712cef14c579d7e637a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 467,
+    "instance": "behnke60",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "aea7c58a916a95f5667bf76ce139bcae0c703d32c09785175d520a320662ba48",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 416,
+    "instance": "behnke60",
+    "method": "MinOptions2",
+    "record_sha256": "3b26930c849d12b23bc90a8fb4a1342156bde6fb190062183c71b3bbe10166d0",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 474,
+    "instance": "behnke60",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "f200f171210b2c34456fc4065a94ae4ebfad3842462b78af4ceac6825e0dc1df",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 406,
+    "instance": "behnke60",
+    "method": "MinOptions2",
+    "record_sha256": "5a9b0f9cdae2aa803ecd9772d6469362492fc64f5a996b01df1c5f8a9eb5f11d",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 462,
+    "instance": "behnke60",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "074af1f6c662ed5fd09f9a634bca429d2b893506f3dc0d6bdd5f32b5cf24ace3",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 453,
+    "instance": "behnke60",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c9d2801726b8798d5786b137f0da5808c03c4d8ba146f8ab7787ee69e9ddc333",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 405,
+    "instance": "behnke60",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "abee3ac867126363a9b0595ba7d2cb449667b4b7ca082e80c8a1f556a6b25021",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 418,
+    "instance": "behnke60",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "9bc3663f3c38e6ea0b4edd9f3c2be28ab1302feaa71ccd74c2e5f8c259800ff5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 470,
+    "instance": "behnke60",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "2690f24e3e1db8dcccd4af9eaedb90c5368c4b510961602bf3f4a4ba269aeff5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 417,
+    "instance": "behnke60",
+    "method": "MinOptions2",
+    "record_sha256": "356b5c1265c96e22c5cd9dc25cde3401fe3ef5fd11a9c8deebd3de003fe27b92",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 468,
+    "instance": "behnke60",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "a7118d3bedb1618fe13df76d79358a63b861d120b649a442c59655b477a9a9c6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 243,
+    "instance": "behnke32",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "31c6ffe8e06935c33835693b63cbdb60276115fdaebe773b0cdc6263f069ae50",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke32",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "0bd9ddcac0368956177d89b59e61727dab6a912cd5f37b6df4ba27e1f90834b4",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 228,
+    "instance": "behnke32",
+    "method": "MinOptions2",
+    "record_sha256": "a60af85c74a54a05c1f1f25ed11be4b4beb74a421d58fb4d9fec4ddf1e450592",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 250,
+    "instance": "behnke32",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "79af62f9171fc0792bc14c3250c020f907b52422848f088a259dc5712fa66b2b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 242,
+    "instance": "behnke32",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e3acefa7600e7268c8298fb1ec2a065aba00fc9b98cc2e152aa84682b8dbe45f",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 229,
+    "instance": "behnke32",
+    "method": "MinOptions2",
+    "record_sha256": "a28a1a8696bbfd0d13381f58fdb52e91784a00cfa8933a309264a2e5cc800660",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 246,
+    "instance": "behnke32",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "3ce076c081e0e229676f04eef71b26977912a3eb4fe4a6edee01564b944be071",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 232,
+    "instance": "behnke32",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "db219be79e78bf63626a6d05023812074b1d02625a71e14d92eae17c7a18bad9",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke32",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "e3b220d73f09adfea19869943f14754d7f6a6f759e8b6a5dab4ccdd0b833e091",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 252,
+    "instance": "behnke32",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "00978b0af4bfcb64e91b2d89b9cfcff3865d84acdb9e26add28323a949121c76",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 252,
+    "instance": "behnke32",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "18e55f96c6b655c0797bc1bb14041c5527d996a837459067924df37ffb15a2be",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 235,
+    "instance": "behnke32",
+    "method": "MinOptions2",
+    "record_sha256": "26574cdf63500511e738d0278e3066472e582d035e5ec56645483cc00ebad0b9",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 604,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "MinOptions2",
+    "record_sha256": "0da1b39038bd58936ca2deb112e8003d29fee13316c2645baa091c824c7318e4",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 594,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "df54aa0ccac95d0426745bcd1d4db5bf5edf37c0cb615c88e20fda4d9f2f7733",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 598,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "c9569d6a24dd885dc7234828257db81532bc36617436f1062a2ccc1ca5415d16",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 604,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "3610f0e555507ca4597c89f35ac249ada5a59eb41de039c61410a2fe655a052d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 613,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "80ccfd60aaf8500783079ce11eeb02c24650cc72ff82bec80937634ec0b24caf",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 596,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "8dd8c0d065cdd886de983deb07df8d18be58899348f5fcf3467d487a1026e7aa",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 594,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "MinOptions2",
+    "record_sha256": "e9ad5330bffd13771f705c3e212281de73e4f469f30d28d9d2cfc78c43d00b30",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 594,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8c135aa215bb223ed650a52b83e13bf974a47999a0411fa545c5572d029d9add",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 599,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "dc1363b7fce099f8d4cad93d8168e5f0da7e186c06fab975774e4b295f9723ed",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 623,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "1be435f1b9bfbfab38014ecfb9e64f42127bb9763750624b9ee3d5f6018bca4e",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 602,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "MinOptions2",
+    "record_sha256": "c7be7fd2494836d08b2aa3c5b04ff5d9bd4b7387e1c8e2c71d9ea646dd1731c5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 604,
+    "instance": "sd2mix-test-25x10-60011",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "2a93cc15f6bc438e047238c75391a52df5b0fb880b58ee380a055cd9fc18fee3",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1172,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b0ea91a9a62178307a343be096e2f53de02c519d4faaaa836b1ed205cb51e8cd",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1196,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "MinOptions2",
+    "record_sha256": "0a13182d844aa4105efa4e8959ac3215e3f2cfa4a0ff78d1ad266583700c9bd4",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1164,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "599b623422533786dc453e7890a01a15bf0f618f45077f7c16bb9019ec7d9517",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1168,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "db18e2d75ebd372f65418bf0788411610bbbe277aab0f75ae454d9626136ecad",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1193,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "3e11cd2882a2db9457eed5ff708592a93b65abf5705f24d3ecc0bf079dc0ecb7",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1163,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "055730873388b9f0432f95dbd7103789cf6f6f5eb1f2ab2f7c3679619d4746c9",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1158,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e9d83643023007f707036bbf74bc4e3ed165228ff20703f1d355f260911b37da",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1204,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "MinOptions2",
+    "record_sha256": "2c901ff9597d17d81c3b27b2556bd489483681aefafb4396a04565c3deee46c3",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1146,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "2bacdf3caf7b3ccecad7b04c5b1f6bb384635aeb5468473f6039c0380b11fca5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1198,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "MinOptions2",
+    "record_sha256": "ab6d14e7e23454f3a4746c166498780f5932dd58b91b9dede2c2e4739e584db6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1155,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "0080337e51b2cb71774a6d477e8e9df332b9a714db96c5dbaa870f925e31b47a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1195,
+    "instance": "sd2mix-test-50x10-60004",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "56ac719cd8cf2a513b26fd846d49a7d6270193b2d0a7957da306dd6206665a14",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 469,
+    "instance": "behnke57",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "23d8c957497311d9183cc82896e506438859423a4678fed1ad8ecd07d443ee8c",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 400,
+    "instance": "behnke57",
+    "method": "MinOptions2",
+    "record_sha256": "bc89781623eb13597d5aebc6eacd103f147dcfb523d2618db58cc760e63b0b86",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 405,
+    "instance": "behnke57",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ff51d689be08a5debb6e5ef4bd3185b77d5b9db66c9b89f8b6e3dc976e6529fc",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 461,
+    "instance": "behnke57",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c22cc3e19d093c94cc32787e6b67caed95d9689a6cedd4efc804173bb34f73db",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 404,
+    "instance": "behnke57",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "24d4df0a2512bbd306f53ddc25f68b8bf8f5acbc09b17f726eb6d4cd26e86ed2",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 453,
+    "instance": "behnke57",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c6b6a160e163c7960d0db505b494d3b0c06c04033945ebdbee00d5749219fe3b",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 400,
+    "instance": "behnke57",
+    "method": "MinOptions2",
+    "record_sha256": "f7458e43c1c449658dceb6684a604b23718d28f0a026b28a1697a815c6bc927b",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 459,
+    "instance": "behnke57",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b99e1e5d120f6ac61f512386e687df078bec9e694f8b1566b8be6f0dc0645abf",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 404,
+    "instance": "behnke57",
+    "method": "MinOptions2",
+    "record_sha256": "8d36a92cb75e6cb844568617eb3ccf87294dc38ecf91d9becd603dbf49ac71d1",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 455,
+    "instance": "behnke57",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "aa6f6b160002a3efd00132988a29fdbf3186862563858db5ec38acb49adaebf4",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 450,
+    "instance": "behnke57",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "e3c9fe7bfd1928360e1245623230e09d41b0c63a2f0e4d89ce58afc04c71ccee",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 401,
+    "instance": "behnke57",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "e4f8a2c011fec30ae8d5033366da24530375689c534fb15a8540297bb7d4387a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 226,
+    "instance": "behnke51",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "0478972e10bf17459ef8fd78460a84f9e9845f0c50909ce632b4e230f8848a1d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 238,
+    "instance": "behnke51",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "a810ce875dd2d2f37c946f4d94dee57c34ea0d3e5d5b10906b9e54ecd4c9872d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 238,
+    "instance": "behnke51",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "62febe5e81df23bed7039ba31a6b4e630d9790f2ee03c3e52a99d88a519dacac",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 226,
+    "instance": "behnke51",
+    "method": "MinOptions2",
+    "record_sha256": "87f5de2d72765f90c36ad649901204b358a66294c9eb75c5725eff8501cdc1dd",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 248,
+    "instance": "behnke51",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "0e172f00e07f08ae261e70a7ef93e3dc4ab68575dc23deb06abcb9ac052268fa",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 226,
+    "instance": "behnke51",
+    "method": "MinOptions2",
+    "record_sha256": "dddfb1f0e5bf35199d6fc60aecbd30bc415865f225a56f13bcbe83e6eb803ca4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 228,
+    "instance": "behnke51",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2c7b875cae7db7b8ebec5604746374802e5f53ef838e428f2d5a4ca2f20c5bab",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 244,
+    "instance": "behnke51",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "0a6d2416c4f7ed43b84da4420e10f91d736fa22f51ac1872ee8b480d14509b9d",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 241,
+    "instance": "behnke51",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "008d464597cb5c88a0e99d41e983beb0b708df71d4c369220df782fe089de3e9",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 226,
+    "instance": "behnke51",
+    "method": "MinOptions2",
+    "record_sha256": "11c91df3bf4a59d6c00f726d7462b5d9524c2badf7461fbcfe7f67b620b546cc",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke51",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "b0ae8ad8803e75af464143f2d9fd2d9fdbb35d0c82e288fd632978899240d78d",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 244,
+    "instance": "behnke51",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "1c6e6fff24b4f8f86077d900537e07f23b2047dd19c3b64e62462be679f23113",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 570,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "f145f9e78697718b91bb7500a707ba51893fd4bad19dffa046c7060cc1b33e56",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 569,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "edff8883389c3d0c577fe38116b20c7ddf55ca2861477a4f841b1fe96c8ee72d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 584,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "MinOptions2",
+    "record_sha256": "b3c805dbf7a7df1591d689564852228f32f653cfd0215951bbe58bc50304967a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 577,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "4143e4e74bc57fe7daf01fcd524f8c3f9477494b0244d6ce3ba7e9b3f591d299",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 578,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "MinOptions2",
+    "record_sha256": "60fc71e7bf2e9b18f66b33f4f41601275108dcc13a8b5d739e43199292580bc3",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 577,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "34670beab39be4feb6324524fd226ede81c3687fe64c3508281fb71b775dbf2f",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 573,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c1771a73fafb2dce349164693908c976b8008ac1acee9553c9654d79a1310bb8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 574,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "377a674ad9e69cc42d11b46659a622e1973ed9f2d58d57f045b7cc22f6578914",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 574,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "a71966a851e41750bac7997dd0b87a4a141a52e5d60d905d207087b8d5c28d74",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 573,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "21f330c2cc928a642f04b8e0ccff73adf66dc12e2f6b0cadf9f002606984ce4f",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 567,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "MinOptions2",
+    "record_sha256": "b0f1c2bc30847eb0c0352c1e2293d149aa8a0401a1d5abc7bedc81f887b8dd36",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 566,
+    "instance": "sd2mix-test-25x10-60007",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "bae1b896b5677d50546465e9bb37db9dd67222f2711519897a8ab57623598e3d",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1221,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "9c1b214d98b512ceb18ffa8d3b8fd684421206341674fafad209c722c0da7af9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1216,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "f984297d5e2a27149b2531fcd79f41b0cde7326a76be5d859d1fa7b699970027",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1228,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "MinOptions2",
+    "record_sha256": "b1fee1ef20cf4ce70ce7315e1e94919f0f1192a59035ba7b31a3141fbb3cb40f",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1226,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "423579964036ff6ad683eda85750ec5fec9a1babe30efe840f26fb123cd989d9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1219,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "06d053891e6eb6fb76183d9039b29e1900af4ba1553ad6dcad1ffaf2ffa05ef2",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1247,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "MinOptions2",
+    "record_sha256": "bc1b6bedc722fc6de8675de6adbf8fa059e9753846d2baffeae998de3ce19b49",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1219,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "ea4b09a9252cd95bb507ede8f909a0435ecb5357eed63167d4b6d3fb15ab3428",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1258,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2f7343595e90765abe3606ffe9b8394d16381c8304aa6751eef37668c589bd97",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1244,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "aea9083cdf8ba98c111bf8262c703c6c9c993da613ce4f043ba50165e965376b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1213,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "9d02bd1abef38c242d1ca93f7f4a04cc75bdbfc1c70d3a11e88c229e4b1c8487",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1218,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "12fc69db9392283879773c4d74d2f1956d9bff87adf7b3b5254c9255c5ad9f77",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1219,
+    "instance": "sd2mix-test-50x10-60006",
+    "method": "MinOptions2",
+    "record_sha256": "777bd0dd1f509b7a6d165e84e01de0bb950eed77f629d841438f6ed477f134b5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 425,
+    "instance": "behnke17",
+    "method": "MinOptions2",
+    "record_sha256": "879a82397010d229607d0656af8cea578cf9e5dd7cfaad5c28ca3e7e86512456",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 533,
+    "instance": "behnke17",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "aa3a44ffc4467aef248ae6c237be08adb26fe61c0f18c6ed2b00db2a582538a2",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 523,
+    "instance": "behnke17",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "a60da9e29ebc4f91712a50b065726046d82400c3807eca0dce102800e76dfc5a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 422,
+    "instance": "behnke17",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "b9732315926e6dade4b38c39a7b262872efde510ae85285a734e331880eeb1ee",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 522,
+    "instance": "behnke17",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "f7b89c763a5871b0ad725fb2b863bd59d1ad75bd715e29a02951c5525f9e6f0e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 427,
+    "instance": "behnke17",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "c39bebebe9c568e90de7f5c59aa60b5eb55081a7929ff04a8c4e5568a8d99343",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 427,
+    "instance": "behnke17",
+    "method": "MinOptions2",
+    "record_sha256": "5bfa26321fec156ee43352db81fc8e05297d1ca090290dddc92616bfced09ce8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 517,
+    "instance": "behnke17",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "99ea2e6c04db39cc96f7b58197941e37bd77b69421777851a48aee76a7699378",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 509,
+    "instance": "behnke17",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "0b9941d256a159d4deaca6bf289bb01b3a36b586d2ee0d0c676ce4f7e6bbf118",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 428,
+    "instance": "behnke17",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "84e506f7e977167b0fd934c65b31d6e3cbf2b19cecfe0c4e699a09f27453924c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 424,
+    "instance": "behnke17",
+    "method": "MinOptions2",
+    "record_sha256": "f8936589bf3c401aead72737d80866ea3b1e2cd3eeb22cfe5b4a35ecef12c0b2",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 530,
+    "instance": "behnke17",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "a0932373bc893645a28e357b2f9d9a637fe79d8e31c833a3b650fb1069f95ba6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 249,
+    "instance": "behnke33",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "9212f64c93eed0e69ebcefc3b049de707fb32a7c9525afd1f2fdcfb3c670a9e1",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 233,
+    "instance": "behnke33",
+    "method": "MinOptions2",
+    "record_sha256": "c3bcc2198c22e66977a9c023f1cbba4cb253171d2eae481262adb1a3b2bea23d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 245,
+    "instance": "behnke33",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "788326565def6b6fa34641d82857c8054a1e9d45273cbb0393af22f9d8cb13a4",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 233,
+    "instance": "behnke33",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ed1c5e2fde1fa43f8a12cc0390674cd3992bed1753949bdee9ff111f31762cc1",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 235,
+    "instance": "behnke33",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "cbf1c2873798070ebc8b946313ee0e7b9626e0c4b42d01b80444013481f19498",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 249,
+    "instance": "behnke33",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "3642993e067ddc7188efeba34c14d159d36f503f0627d111992c7194a10bd99b",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 249,
+    "instance": "behnke33",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "31f28fcdc6c7717d0b89b378a2881eda056020a52617037dff73ef0c8ebdf700",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 235,
+    "instance": "behnke33",
+    "method": "MinOptions2",
+    "record_sha256": "d675e001fc7a1b2e2636b60e8969f0f51b0ce02b5dd488e96fa73d4e39227bff",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 238,
+    "instance": "behnke33",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8986e1571063fb82dec73a484b88386d401afbd222fc72f8da4e9023022ef68a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 237,
+    "instance": "behnke33",
+    "method": "MinOptions2",
+    "record_sha256": "7ef02ec1db073d2c8b50ee98803b406a2d9444d5da95b6bf1651b755fb15c3ec",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 241,
+    "instance": "behnke33",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "5988529420c34e08cb8978c46aeab3be3a21fba2df5f48871873c16f7f23a840",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 233,
+    "instance": "behnke33",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "0f080ff3c3c1f3e48eee7b0c48ceccd928355e0969ca4052fb9f5b310c10b28b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 635,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "639c3ed7370aad35ab04f4891aaa2cdbcff7896f41ab673ecfc26b3a403b24f9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 619,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "MinOptions2",
+    "record_sha256": "0db5101618f617f2e1e42def7cd6f2336f0f3c27662687a9f6de974c4df433bd",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 618,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "6832fad8ffb508ad7babaf54d10431b64285d4dd4fdb7ebf8330890cf844a3a4",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 626,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "7e67b6d91e2f7b6c19ad0a539b1796efdca5b6e36e91c774a5c7f34d9eabda22",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 621,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ae0546544fe59a9ba8a34742dfed053c4f4b6acf3b46809aa95fafc5ec8674d5",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 638,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "cc926b7c8ba93b6e7fdcc12bc359e92767df0fc57e31d32881b00f118abd9898",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 624,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "MinOptions2",
+    "record_sha256": "2a4cc51d1f75291d4e3897e78615d32a8f2669d95f5845df0286fde26c617661",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 622,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b4b7959d78fbea76b795e1938ffc747537b5f0660176ad2b764f6973522da049",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 617,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "MinOptions2",
+    "record_sha256": "80a09576d9aeb3e4a244453827f15cd18924e15454f83c2e268bb3334b55e861",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 627,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e698c8b10b13996730085a4131c8e9132e966cf360b635af7a261ce68c5c0258",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 619,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "4da9a0076eb03abaec54a8ae023ec9ee0c049ac0d0a7e48ae48f73d4b2c2cebd",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 633,
+    "instance": "sd2mix-test-25x10-60003",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "60f549af41cea33cf64e921a34f9f097cb0938e3d22a16723b8189a143868791",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1084,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2a589050ff33732a7291d78aea8af61747d1fe374766cad0ce19039f51cbc16e",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1083,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "14804bce630ae8fab6c5ed24f981d93f3e1e0cf6979bd8fc4930edce822c3af1",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1078,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "09cfba7d121044397814ff78860d41d596386f51569cf6e5217758b4da365266",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1081,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "MinOptions2",
+    "record_sha256": "f63c207912c9ff4937fe96aa5546c2551b61fa71579fd7d847444825977ed42d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1079,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "65af9a7fb485f4dfb86f8438fafd28222198fd7d236c486d79490e0397de5db8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1089,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "MinOptions2",
+    "record_sha256": "d065a911f6e1c076934bde151da80552ff10d67a5304473f4f00a2247e3e2917",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1078,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "4ab1478288d141b35e6ce677db0cc2e94a7bfde723c0008df19d46d7a62c07e4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1091,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "c2bb594596b0893fb4e550abd9fef6177d8f301682a64f9cc0df4698046aa97b",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1091,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "637ee85282f03cb3fb7ac9afba87853f0b3e6c5cd1b8afbbdcece13afa0dc05b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1081,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "MinOptions2",
+    "record_sha256": "b27342d778456410f4dd2d81017478ba432e069b38e1787c27b7c7f15ee77787",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1073,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "4427974d4985aba1eb78ca3300c0c6b668cf0544d55deba008ca550951d037fd",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1078,
+    "instance": "sd2mix-test-50x10-60000",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "38cd0105911b8611644b24e805ef4b5ac5a79be4357daa42adeda1c27a63cb5f",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 412,
+    "instance": "behnke39",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "65d722288ec342bafbc7f0a41cb8ffcc2b30154bca9911a6dcb99a1986302f7b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 464,
+    "instance": "behnke39",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "246ccb4a956b16a6165fbd8a31e1efb83bcee838c5503546179a5e2db1d04df2",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 412,
+    "instance": "behnke39",
+    "method": "MinOptions2",
+    "record_sha256": "5923ac10ff5a57df0c819ce5a14f32a0a8f8e7bf0f8e9274cc49ddcf65ac1ac9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 471,
+    "instance": "behnke39",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "3a11cb554c90a8943e87521e2a08d7071d8ce4e16769390df41a224a9de442e8",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 399,
+    "instance": "behnke39",
+    "method": "MinOptions2",
+    "record_sha256": "9ae556aa6af9892b3500d190f18e0c86196aa7d8843be1c8f103851324f7963e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 492,
+    "instance": "behnke39",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "6431764e665089a327c8856a97f3bb8c3a9a5ef810c7135e9a7f6fc8dda3877a",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 475,
+    "instance": "behnke39",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "511ca319b1086dd0a15f04841f863923cd866028e9a6a296c2a040c46d2684cb",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 400,
+    "instance": "behnke39",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "e4d7ca51a6be2e4cc3361380c80374a666a5865ac794b4298694a9ea79db9645",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 401,
+    "instance": "behnke39",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "4cf2939cdb68f23c871c529fe9f1befc694674708c70599d4fcb8e3b5a6d2095",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 471,
+    "instance": "behnke39",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "efbd7cf5e8479d4dec9f18b3f1f354d9c2dc68865804285526458387e17a5e8e",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 406,
+    "instance": "behnke39",
+    "method": "MinOptions2",
+    "record_sha256": "15a4b3f9d9f1bccffb238803ed2578713b26aedf35538257acfab5b74b6a1b3d",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 470,
+    "instance": "behnke39",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "201f6ed9c9feee6c065a6475759b1c47ced2dfeb33fac0ff77307d60bf5b5dc1",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 262,
+    "instance": "behnke15",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "a3307946b312854e75862af9cf7082684322d534825957cd35647cb151648423",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 247,
+    "instance": "behnke15",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "7091c3b1b0624316a690821da5319722e2b6bac60c9d5bd1f883799ea82cdecb",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 242,
+    "instance": "behnke15",
+    "method": "MinOptions2",
+    "record_sha256": "2fff40faf757f010e4bb594a72d2853b5be030cf37128f7816ea645006ef5a70",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 259,
+    "instance": "behnke15",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "2c206cb85abd5568c224827f60c3d65170d2064d9af3279ca233651e34781e34",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 264,
+    "instance": "behnke15",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "caf91c84152682c473f871ca0e75cfe64318b0eac0059dc0bebbe23aa183c93a",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 242,
+    "instance": "behnke15",
+    "method": "MinOptions2",
+    "record_sha256": "a25ee0091117339e99bb41bc3ba032bd01c745d80df4263f7d2f8023de18f1c4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 258,
+    "instance": "behnke15",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "1df9d67d9345b20d2a737a0699597acd5789006f25478171adcd77e058ddd2fa",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 248,
+    "instance": "behnke15",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2c140128a993cf16a2a184dd38fbc479c670abdcd629e0bf262b269998f760dd",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 249,
+    "instance": "behnke15",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "a8d97706a8aca7005ce7bc82702e7169faebf84e3b412345e037fd6721b6f62c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 265,
+    "instance": "behnke15",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "2986741d8edd54706bc0ec1c1b9f39e866808523bae338c55232c40fae692540",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 262,
+    "instance": "behnke15",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "d0e6506a95c319e632a413fd8d3ca088321fe124fcb05e928e7909b037b5d45b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 245,
+    "instance": "behnke15",
+    "method": "MinOptions2",
+    "record_sha256": "b436072b092f1653c694442a297233d568840f2b4b6e3484d522d03fe6f0d0c1",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 550,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "MinOptions2",
+    "record_sha256": "a64bd81f888460256d8f97a9f2b1ed558942f6141622deab3b9765f0e3b6ec33",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 554,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "e88831a1d8bdc9b0040d6cc8c54209ab1caa590f0baa76fbcbf0278bca1c466a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 556,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "6427ce10b6fed392b56ed2ecae13e1cab5cac5897033ffc29c96abe7d7c095b9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 551,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ce54e884107104419cdf0d32b47637ecb8603f820cf39f34af80983d2c04c2d7",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 562,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "35f75816afda88e96dbf4c258562cdcf0d61ca187f96a19391af9a6ca921a442",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 564,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "9d9f5c9b9dd7a9d45f7b6d47b88ba165b5bcf08f697b54d10de470d2d9140b9e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 566,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "MinOptions2",
+    "record_sha256": "f012dcdf5c4a4c9b81d7bd8cf91ea9eb639123367c76d8af80c96b092724bbdc",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 555,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8aef0f4bae1ab5cc0ba78aea4eed0d3da5dfaabf3181fc15554a6b1dbd04dab8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 555,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "fc745c8dc4e0f5c28d5609a532278916894edb8a59d74ec349a4cb9295665dc9",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 559,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "be3f9f33a9cd6ca93fc33eafc6c9046c198826655d2e067dbdb18622cd904fee",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 558,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "MinOptions2",
+    "record_sha256": "62a63735a681928aba31c66ef08d316062ba0abce66f5483fa73f4ee87d4438d",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 557,
+    "instance": "sd2mix-test-25x10-60001",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "6c2af1eea4d855e15322b84f0c7ce770bb1a4c8d2939db17a52ca9de04cf6c44",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1240,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "7954ce02703a1fbc4e997ab5214dcf4acdd4a16daff36aee547ddcab9bba18df",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1226,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "MinOptions2",
+    "record_sha256": "8efbc5c1b404f4461d87738d71cff288c7ea50ba400a385fc575c52431a3ed92",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1238,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "d3677cd1f3e266435e750649c49aae9c9bae10cec4e1d363618afb46ed334120",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1255,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ca2aa2ff5382fecf0135d1d04b952825e347ad41cd009608527ec687d39b039e",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1289,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "44ed795ea07aa3c72b6e219db037d80f32dc6f38189725ee9d9ec4913ae89885",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1237,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "4a137ba3f4599025b5540f7cd8e8684e02f29af84c7ae94a8e15cb56d2d6f00a",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1248,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "a5857c6b31e03380c5de5da797e36c5f99f3624fe1e2bdf50421822b21e7593e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1264,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "MinOptions2",
+    "record_sha256": "b5205d5f0342804383e7e41d020af3f3a692719448fd71af68bf70b3eddd4c77",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1240,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "acfb7dbe18862104569eebc1fc4668b275d21a375d77e42807960d413968b377",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1306,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "MinOptions2",
+    "record_sha256": "dd61246f87b51d2b5b91943d429071f5f2e510ec38832b352008f0f2674f59f7",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1242,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "d6f0ee7753b5637d5b36e10c2f91953d2e72e34789c3f776ba8300bedb87d535",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1240,
+    "instance": "sd2mix-test-50x10-60009",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "5023a569ca1e82f6d6ec57c3a32cb2658d3ac28a66a9b36ba8099e49031ccb57",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 464,
+    "instance": "behnke38",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "826c77ed31869cc3d0603bc6f053e32b57a678ca5069183e642e907d61d240b0",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 406,
+    "instance": "behnke38",
+    "method": "MinOptions2",
+    "record_sha256": "f9cd05657b8459da4d77971bf40f138bc0b62f877f1f2da461db0ddff7ca96da",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 406,
+    "instance": "behnke38",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "de9340afa4707d71bfdc3f1789e30121f22de5dfd2a8c1f89e3605361a385e35",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 483,
+    "instance": "behnke38",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "bc46d3854eeff97706c9988fc9916caf21d6571b12def6343e25899152c11d2d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 406,
+    "instance": "behnke38",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2ea717b598f54c2a024f03f730146444ce69c6c9ba54a627e8deac34a5728ba3",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 463,
+    "instance": "behnke38",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "eff8a9cbf042a734293c966bfc0a4b52704c0664451d110fb804752b312a72e9",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 407,
+    "instance": "behnke38",
+    "method": "MinOptions2",
+    "record_sha256": "898e51b09da0c2eea0f60462391df7bb571961cd1a664961cc71c98bf603b888",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 466,
+    "instance": "behnke38",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "9de09863a1e66d47ecc86ac948ff83d2784891fa0b8dca83c2921176c576fd67",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 407,
+    "instance": "behnke38",
+    "method": "MinOptions2",
+    "record_sha256": "d105675c71d7e04ebfb6b53ea70914c3dcf784464dfa7a31c67f67ac1448c7ef",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 465,
+    "instance": "behnke38",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "09e02f710f91e94f15b3ea3ded4e08e51ae9d15d8769585d242ef6ff0eab2807",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 463,
+    "instance": "behnke38",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "76452d5321343de8d4424191d969653ccbd03e55867a36ee591b08e4966da6ee",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 409,
+    "instance": "behnke38",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "5385bd9c40223620f3ab274d342277822a0fe9f6df184f34169c3b7c858b0737",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 221,
+    "instance": "behnke35",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "c0e730c7c81f3f472f7babec497fe34092b9672a4744c5ca921d28dd6103afcf",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 238,
+    "instance": "behnke35",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e7086c041241d00ee2f09c48b5701d06074a199bb791995aa4ae771b4a6d626e",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 232,
+    "instance": "behnke35",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c30657975b9de7464992fed6aefd210dd477f3b7d768f82a5c7bd6d476b456df",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 220,
+    "instance": "behnke35",
+    "method": "MinOptions2",
+    "record_sha256": "04ad9f365f469adbe2f6053b284b9230275a177f4111336eb1293e73c7625916",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 237,
+    "instance": "behnke35",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "38a4f485b67c7b5e210dbc064fe20abb29bca8af5739269593a2348d03d92099",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 217,
+    "instance": "behnke35",
+    "method": "MinOptions2",
+    "record_sha256": "dce37f1e7b5dcd34f1288cae6a926613e15431e11ca49d76ec0498e6dffeaa7c",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 224,
+    "instance": "behnke35",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "bad0f09ede22da5d3a000a49f9761ef51abb2c3d730f87711d3abaac95a4d9df",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 236,
+    "instance": "behnke35",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "9074009d35d363926860bb5aee6cda97bdc8e2e911f344d3b7f6de26feed6e15",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 239,
+    "instance": "behnke35",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "90a112a3ae096c06b6a258ab2518567e3f2cbf5124fbe98b2b2ccb145791a003",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 219,
+    "instance": "behnke35",
+    "method": "MinOptions2",
+    "record_sha256": "c01e035d648c37c6b0c3c9186919f1aa5cee2b20ebec0fb284e6e3c4741dad23",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 225,
+    "instance": "behnke35",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "c646075d268c480ffeb89337da354cb2c098b150c6ae439cd29f405c06de1c39",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 238,
+    "instance": "behnke35",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "5b6f353191d44d7e399d728e3ba4dc67ebb688fe1ae2d00e558260ebe267475a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 541,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "dc7fd9f13035b27252b84e7b7e62c8d9f9d0209b79ffbef820c37950627b9fa6",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 548,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "1de355b3609af19d8044d008c2d949f0aeb96e6a4f553c20258ba1b27b647669",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 542,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "MinOptions2",
+    "record_sha256": "4e1bcb20321f95d86390c87486bab3f88bda464c86e468ace9e96932272ba41f",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 541,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "fc7a202d51a6968b9ed750d4766fdcb161496b0987415bffbdf015900538ca61",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 537,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "MinOptions2",
+    "record_sha256": "732cecbe0bca60e2efbc662ad761deb77bca0089b6de53867cd69e7ace71b7f7",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 550,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "063b1691b41eeb928135993bd3262d46e5263c08880812655fca2514041e1d58",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 548,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "f837af35478ec0b73e31ddcf0b636b73e32a5f5de655ff801e7760609d62e1d0",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 544,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "3cd6e6b81c2f68841b88788c9e88ec71ecc160bd7c41e2b259115ec5376edfc4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 545,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "f01bd22bf2c5337c0043816b2a2d48ca709aa13788c66b1a8d229fe9c216b7a1",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 552,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "51d9aa4dd84b1ff74f51d2d68749320c76c9a372d22f286389c7710b320a9c34",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 543,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "MinOptions2",
+    "record_sha256": "8c191675084d48ccb92daf1a53c10632d5931cb90dc71f638f455b0e3082eb60",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 548,
+    "instance": "sd2mix-test-25x10-60000",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "761c79dc576a024516b06ba1abcfb899e33c793cf4592f698acd0a29ef05b042",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1167,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8909d3b9b6a94eaf9c23d44e0998f2ddc0a157e3d5e856488425190eeca2abd1",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1148,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "f803136a3c8d1fbe8eb3b4939845b2de2cadc91ccde7abf84e9be7657d862639",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1136,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "MinOptions2",
+    "record_sha256": "9c7fc02866a68aa4c1de9e9301106a9e0da82f39881bd5f0a3891e6717f495af",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1170,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b7b7278094e576e3866ec3fea2df757e47f5278ed5f942196ad6cae27e619d43",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1149,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "c9f6088f57784fa60e9bb4b1aef0c5100e6e6ac79d54ca4cd74b43f582fb8a96",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1147,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "MinOptions2",
+    "record_sha256": "28460dc12e2b88f1ac272aaf88ec45d0b7470e767d7f91ae3ae0578803af311e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1152,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "15eea29b61d3d66668cf747974f0016043d24246e262b0adf0c3722e2221e84a",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1160,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "e92f0a5c43339358889c2b779e738e616ca117dac2bad811cfb74ffafd3ed3c3",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1156,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "bc7d18515991c38c405aa8f48c5ab3869543beaf082cb53e32d1e9b43a3157d4",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1178,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "a740bed3ce5965b465b3fc0c2f0c9e6a0a23d24ccfd455384aa89e4a1ec63461",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1184,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "3f12465e4e8311d07bd21d5726f3e7ca2c16b325c5e7d3553a93bdd73b806a1c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1152,
+    "instance": "sd2mix-test-50x10-60008",
+    "method": "MinOptions2",
+    "record_sha256": "96bc6fd531a5c80a54abec96da7714be350e0047865a1373ddc244da6cdfe202",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 411,
+    "instance": "behnke37",
+    "method": "MinOptions2",
+    "record_sha256": "16786d8bc97b368476baceb1572592cf85e74c51600e22e0d98062bee3fb51c9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 475,
+    "instance": "behnke37",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "891aa02e35f67b35d87890b75db0e6e2f91f1bfeaf9636abbde6f15a15459ab4",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 475,
+    "instance": "behnke37",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "205846bd4a82adf22a0464450622a5b338ac27ab6a22325c511c78669e774d1c",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 411,
+    "instance": "behnke37",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "8ca593817139cd557aeecc3a87fce568c6fe82007793a8661f93bedd487aec72",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 470,
+    "instance": "behnke37",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "4a02ba665a70234f6bfe4b8b30654aff9ff02271931f7185aa602b135082d864",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 407,
+    "instance": "behnke37",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "791831b02588b9a815934400f381308f4bfae8824e2c8dcf494903b3ac5ae360",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 407,
+    "instance": "behnke37",
+    "method": "MinOptions2",
+    "record_sha256": "597655970bff4522a6a66d1d2b014b818b1d2633577bc712599e2ffe87c5f5f6",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 471,
+    "instance": "behnke37",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "0a75fdf102f328b303ac44ad669ad30e5e5e79bfe49bc25f407585e520f74ac1",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 476,
+    "instance": "behnke37",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c7ee61de45e14c39a852cd4f11dea04ebfcaf8e8d2346a43e4b6dd56722183cd",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 408,
+    "instance": "behnke37",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "05787e47e0a262d520932dc606d97d77c12f1c73ee8f06842e65800470cf3ea5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 407,
+    "instance": "behnke37",
+    "method": "MinOptions2",
+    "record_sha256": "49230ea05fd140d5c26b0237f050233a3126cae1c40d78667ef80095503c2d40",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 469,
+    "instance": "behnke37",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "5d846b1e7a80cbd72245f8ee212306176e8e3e635ba4ff05a43a04b382220eec",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke52",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "5410d44f288436365a81d56a5729122c558f7ee067b33c9f233eab8826713bd0",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 222,
+    "instance": "behnke52",
+    "method": "MinOptions2",
+    "record_sha256": "6552e40e5a1d0a2eba6d82dbf4a839fc1e395318fdaffa700bc12907a9582d3a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke52",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "a1adc1b25a65cdfec71d608f35d3aa4ec15365f7605030a62c6b6d3e2bdc4119",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 222,
+    "instance": "behnke52",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "68d1f1a507fc94a694cbc594420c0537a3afa99e8b5ea23b89db807589c6b0c0",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 224,
+    "instance": "behnke52",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "63d81f04551dadb89fbada215ad0c83a5c8f4a1fa329295daabc7c355e6695b8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 234,
+    "instance": "behnke52",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c1f2d1db1c5ea0ed2e9a19da2591ffc2280dcbf74d98d2ed891bf92459d09ff7",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 240,
+    "instance": "behnke52",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "1ff888a2b8b7af5cd19d2ab4941379dc0f568354d4093485bee29651b6bea385",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 223,
+    "instance": "behnke52",
+    "method": "MinOptions2",
+    "record_sha256": "4a06e4d2ac434fc0ecb3e2dda033757155ff01270c5464a13e2000c31de44fa0",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 236,
+    "instance": "behnke52",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "110638ae41b22bbd7b23740b38860d977a6d81a5d9118ac29492ca1c6ebc4f5c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 223,
+    "instance": "behnke52",
+    "method": "MinOptions2",
+    "record_sha256": "c0c2b9df20b617f69c521b1669e7510e6f26aeb27c4f9d5a4ca74fca4b3efffa",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 236,
+    "instance": "behnke52",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e38145fb33f61e6a5d3100348ac6cdf955a2292a9bbe5ddf23bbc372a89e4933",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 230,
+    "instance": "behnke52",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "b5df3e29b21616f32eba2b5e74dc2fb465c5775b0c28c920f009d5d25c2ca80d",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 521,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "efa66cd0515c49abb141968266a19165a9c81812257f7018872d0805b575a121",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 517,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "MinOptions2",
+    "record_sha256": "8d8e57d254cf999b3f7b08b2434a01a747a11f535ace2a4f418bfbee1a788122",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 517,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "734a7a5615b9bcb5346943de1fdf5e5544cf3e3d02b5456f989fb5796afc72ce",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 519,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "738853c2b436ef4516013e86f36905c40840f576f752a99283ce1398e0918786",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 532,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "c5a11c3bf2b338f69c3c08d6f78d7dc868f01e1b701c019029486ecea31ea6c6",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 522,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c78ff36f8b94559bf627f7b8b59036147434deac6a4b46a5bec687e2f3daee44",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 515,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "MinOptions2",
+    "record_sha256": "6185ebf3674ce6ad4678fde2a04617b0d12d33c3722f166d5dcf3e9111f16b43",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 526,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "08f4bd230cfbac00fcb2313f6a5e7d7d7bbd50d56d66ec07ad6d324ad975d63c",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 525,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "MinOptions2",
+    "record_sha256": "fe76ed66c4301f719fe9345832b0355734ad25a1f8b09fd2d77bad521b21a068",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 510,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "432a0d84c7e87d000c64ea90ee4600e77ea977a15bf5fee261fc4c3cc7db34a0",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 511,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "60cf6d0cfd7fc4dd7789e35badd344f51ae38b1f43be78295553fb4524cd4714",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 524,
+    "instance": "sd2mix-test-25x10-60004",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "04de033fc022d44fff7ba939c0cd078497f3912005089656f8b279641af4fd3b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1010,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "5f863ced7bd60817e4922c2cad2f4a76438704f587b97b96538d09479402c6a6",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1027,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "318dfa0066ffe8eb68f9bea3ac36c7a43de7d4274f2b6b1fe5036a4cb0ea119f",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1023,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "30f492dba7a49191158a6384bac2b343ce955f6ddbdc05404eba71b57f6c0ca2",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1016,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "MinOptions2",
+    "record_sha256": "e6c360069bf20f0fc66c605514855181e59e1db08fbac29dcc7f56d048de9879",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1037,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "1913c518897991369ffa28afd1f2e829f03a6c6ad264c2dc466816e9ab303ca0",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1053,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "MinOptions2",
+    "record_sha256": "14c3db2f506b554975446e99dbd628cb0468f7a1c3b2ac9b85fcfd709119229d",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1013,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "74b67336f86bbb580ba611ef45751b4bac17ed970f4d741388e28d7cef97707b",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1043,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "8cad67fa856503b98eb3270d9228170fee325c7beddaafa98912ae42626eab81",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1024,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "73fe59a640e8a627f3e48d1ab6347f9588bb3e7bbefb10424c4e3bf4a42b534c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1032,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "MinOptions2",
+    "record_sha256": "eef179955aee81ba194eeba89e310cca1ea35d56ebebde14f8cd60a2ded009ea",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1032,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "60f47bbf3c72447c8200a2bd5c58cfeab5db7ef300ac5c03cd0562dc03582c2b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1018,
+    "instance": "sd2mix-test-50x10-60010",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "91ce7b651edb9aaf79808c35fa1898e8df76e6a1df4077a82038775528087085",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 431,
+    "instance": "behnke40",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "0b9091f01ee3e5d38463e96919d22506896b131e407ad3c02a604b14b6487cd5",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 492,
+    "instance": "behnke40",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "26afc2da26ef5e2a0ca208295f553f8f5bd60bb45c14a5e90fd8e2c6322e2d85",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 429,
+    "instance": "behnke40",
+    "method": "MinOptions2",
+    "record_sha256": "b1c3b39f52e2dfa094655e9f3ba2dc65655c3890f83e6403a80b0cd9a2161e83",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 484,
+    "instance": "behnke40",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "ae78c9e4f33f73e37307ee4506ee9fd3039f9e1ed03b6534e08409a30d25fe5c",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 430,
+    "instance": "behnke40",
+    "method": "MinOptions2",
+    "record_sha256": "34ff0fe06b8627e1964807c382a5beb3e8e82b193b248899d8b1c722fed49de5",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 489,
+    "instance": "behnke40",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "576dd94d4010d6949361d9cbda756d28cdaa3581b155792e40924a7efb7ffd80",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 489,
+    "instance": "behnke40",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "dba644fc00ed3fa6faa3b8904f99dee8ba9d9fad6da8f26cb17152a95d1dd343",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 430,
+    "instance": "behnke40",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "905648609af84c28b462a032c1db227789c355ab3aad8973f248bcfe7720e762",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 434,
+    "instance": "behnke40",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "cc0462c4f43d28fd8c1990401a079267b4f2e740277b8284bd4b61fd042e47bf",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 493,
+    "instance": "behnke40",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e0e6e1f0c4f54f78ce428b41d5befe6d0580b2a4fd6bf25455649ec434799213",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 430,
+    "instance": "behnke40",
+    "method": "MinOptions2",
+    "record_sha256": "208841299c4d36c66e31d451898e08337c0343b2cb38a75f01419e9b30381a67",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 488,
+    "instance": "behnke40",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "4e26f5a2a34c65699a02cd2f697965c4a4648b8a2fe9be83f4c835c2ce8c2ce9",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 261,
+    "instance": "behnke11",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "f75dc432ed635b69041861e507af0435a6371d362d1452466d401310e625c49a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 242,
+    "instance": "behnke11",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "9197853acc0cad9a3c78a596160cabbcbd62feb72ca7faf35f989d00416bd424",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 242,
+    "instance": "behnke11",
+    "method": "MinOptions2",
+    "record_sha256": "e94833bf5eeb8fbb4f637e632e50f259b92abf06bb0adb9d9bd4b4ec7479754a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 263,
+    "instance": "behnke11",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e34f763fcb114bff720b9a567fa22b6e97a2b0fc92d6818aae21b0f3e88d4948",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 278,
+    "instance": "behnke11",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "087bb6763b8da48969e1d4a4d9b5da600f87ce0042fdbd0aaa1642550069be86",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 240,
+    "instance": "behnke11",
+    "method": "MinOptions2",
+    "record_sha256": "b86c1336abc97e10486fce03107efea678ea67b9643c09b1d3bafe37adb4ed68",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 261,
+    "instance": "behnke11",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "ce9d62399c16c18b5a4be6adbd849c8f1044a18f7189eab4d4fc57cee7b543a0",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 247,
+    "instance": "behnke11",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "eb29e4f0940ada24f5defa0d87debafed50cda90898ff2c88e9bcb746df3dca0",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 249,
+    "instance": "behnke11",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "37926120b8d22953eb53acd63f1f933105fe4fde894896509925c488790d283e",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 255,
+    "instance": "behnke11",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "563ff8d7a17f321e512ee587a72c6cc4d2e418e6beae853a9658264e8ca915b7",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 260,
+    "instance": "behnke11",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "2fa548340df96c6c7a6be735a4138d080f71ea14c4a1f3abecb264440df8f31a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 241,
+    "instance": "behnke11",
+    "method": "MinOptions2",
+    "record_sha256": "f95dd604677b1ac941ca741a3d406686e754e4055f6e8a2bbd40290a4e152213",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 602,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "MinOptions2",
+    "record_sha256": "9932a60573b8b2dc0d9e8defd3de581285afb75289e9af7ad9c23dd59dd54622",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 610,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "aef088c4cfc5c164312c27578d23066f436db92fa4b98091b5ec13f787da6465",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 610,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "bb1c7fd2384b24b75bfe17671815d071f286888ccc9b1447b57c311b0ae9db0a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 605,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "659fdde3eb848059a20573532eacbb326a3c3ce366dc98f4b96e6f4b018a8051",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 617,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "64d80bc59b191c647f881d72e01f9fd2136112f33da7b77faf9f3766666ef79c",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 606,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "386bc751c0dcebe04c85e51d29b21c1132e1cd434ec2067270314442bb592949",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 616,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "MinOptions2",
+    "record_sha256": "c2d95d7ab69315c50d6d6d35559122938e44b996789cc5bf4593fbf5691c1aa6",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 616,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "e0620b9e6483e16928562de321255fb5d2f295e6acd9790666e56b6bda005a21",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 614,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "c12e47e52a5fc68ef27a4d3bdf6453ca64fcf85b7d4142afbe1f04f64e042edb",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 607,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "3119ebb1fac7361dcc017736c6b13e3b6e01f1b88648b0e8b485748f05a592cd",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 609,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "MinOptions2",
+    "record_sha256": "f7a250de02a16305af7b66c718d5cf8ae5bda73bd9226c5c8eb24e5da83714e1",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 614,
+    "instance": "sd2mix-test-25x10-60008",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "1a89d4fc25ccae02bbdc5ae9e47dd78ca831b293d816c31eda61d7d49ac8da6a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1092,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "671f1dbc02de2df12f5ab7a3876c6c3e6a1549aed7da59ed9c12400821aec290",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1097,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "MinOptions2",
+    "record_sha256": "65eaf85eb37de54f610bf1843fab80e5806dc5a989fdd32b86132f31fd5b2fec",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1110,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "46367b6cb91ad168a9dfef96c3d09f3e8be18fe0b6d3820211fa79812c7720db",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1102,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "6d15864ad09681fb595e99a17ed8be543217859750eb3896dfe69c14ef07accb",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1092,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "6f8dfbf30f161e003a50b2f6c4b115885a83dbe8f7e96f69a7097211b1538ff9",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1106,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "a475a2f9a57d381c6e914da102e0c03244013cf1b8ac3650e060cfbbb64cac84",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1114,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "92b825cd65308069220f247834a7131e64bd7c5190bb4e38c770e8ec541fa238",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1114,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "MinOptions2",
+    "record_sha256": "943a15dae93985771682c2f4034651d6df4013ea7cb42c569dd18a387d874217",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1113,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "36a5387249ac558784a2462fda1b7a52b1d8637776fac8823837f2d19d0db399",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1133,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "MinOptions2",
+    "record_sha256": "28367e024086fd8fc23da04166d6737bbfaae35d4ecca5c146a8582f2e117cfe",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1109,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "9b94c93a3c2c01368740f36873d528fbc5e8ad980fdea185aaacb63925e453d7",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1108,
+    "instance": "sd2mix-test-50x10-60003",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "d8bf7fa3e9544cfb3dc46ecb27ae65880bd383884591baad417119655b2e194f",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 456,
+    "instance": "behnke56",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "bc4b5f033e2124a234f6d837b2f4f7c97ca0562dcf690ca8f990e070cfa66af7",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 403,
+    "instance": "behnke56",
+    "method": "MinOptions2",
+    "record_sha256": "c0151c0996bb7057f3020640fd32921166e58bba7d5d9c57f73404316a09d13d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 401,
+    "instance": "behnke56",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "0dd79242486ee140450e768230c4bbf2fb165e7173b23e5b81d69e3beb33a259",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 447,
+    "instance": "behnke56",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "da7520625e2d80fa303ef22ca8525f7fbb04fa62308534e8b8979ce395aef716",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 401,
+    "instance": "behnke56",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2153548db810c3d6357ea972231b0e22b1280b38ac4dace8bb819d0cc221952d",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 457,
+    "instance": "behnke56",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "cf09512bc90302c7e58c4ffe77bf57aa7f183b576a717ff13d9483fee43c4110",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 401,
+    "instance": "behnke56",
+    "method": "MinOptions2",
+    "record_sha256": "d596b8aca333f9e56452a545a6bff28c2bb7763ad2b2cb5799a360acd56ac0ad",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 458,
+    "instance": "behnke56",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "aeaa3b9569f62d20943ec6efb3e553079486fca44c7cc3050d5c94b51cca10ca",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 411,
+    "instance": "behnke56",
+    "method": "MinOptions2",
+    "record_sha256": "94f0074eee6e47e6971be7e261f0d9f6bea6556a0d53ac2fa6566c3e77555609",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 464,
+    "instance": "behnke56",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "4e1044b8ef450856a52d2859ea6dd7cb9a6fad83ec17ebe7319853e614182963",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 465,
+    "instance": "behnke56",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "4554ef8572cc23cd6a009fbf8eb6e934c06cb8d612ae8a9e509320effe5de12a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 412,
+    "instance": "behnke56",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2bcbf2e78c13526ae6d05251d7396d70678470f638546e9aecbe874a91870f54",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 234,
+    "instance": "behnke54",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "f6e5adf6cc955fa6e7596a627d56fa78092995420f8d330e56fe1de64a09cbc4",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 253,
+    "instance": "behnke54",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "5ca1eab51643b1c3166139779450f322cd879c10e421df5c62fe3d5262bcbf60",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 248,
+    "instance": "behnke54",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "23e5d4b24be158c653ae729a6d47d9fbc047b5a81baf9d4a457e8771344388be",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 239,
+    "instance": "behnke54",
+    "method": "MinOptions2",
+    "record_sha256": "06850eeb51608bd4ee35e4b1e12a15affc1c02ec7b6e233c474381cb24dff343",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 252,
+    "instance": "behnke54",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8218d55e1bdeec8b201f089e200bbd9187fcce0a6fe772540dcacf89eb8c6dd4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 239,
+    "instance": "behnke54",
+    "method": "MinOptions2",
+    "record_sha256": "51ef30ddabca3552885990f516a0b269a366fd40b050c276b449529c88af73bd",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 237,
+    "instance": "behnke54",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "6d7f4f37db39ca18509688d23b253132f2625a5b6f92079f986dff8bdd03a37f",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 252,
+    "instance": "behnke54",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "63cd5eacbd958c1844add784fa89c5244ff6cd790dc3173235b036cf5abb0d47",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 249,
+    "instance": "behnke54",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "ce6b7793b8da19bd2ec4ec8269039055702e1490f5f448545cbc21a58ab3fab6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 239,
+    "instance": "behnke54",
+    "method": "MinOptions2",
+    "record_sha256": "7f80416c87c7427261023b97baf309d6b35399149d3f3d11476cc600ef457561",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 237,
+    "instance": "behnke54",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "16424ac7afd601c12225536f59005f389edd4a921a467ddc3fe39737cd3f8087",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 244,
+    "instance": "behnke54",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "a6391cfa6853d61498b63a3b7bad00465faf9b69a96c354dd3f45c39cf297a60",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 513,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "e5b4db737a8e93efd36cf6ef6ec914fd841a8220ab326df2b74f29e82931980c",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 536,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "5d051f2badb97ec109b533b076cf5cd3369543a97506c993d7b80b50fd2c6985",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 510,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "MinOptions2",
+    "record_sha256": "fefd16e9755cf2d74f74dba56488d4a61c6156f087413cd138ec34753bb8c30b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 521,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "ce727647284a3f0f7b04fed5927ee389c5fe4a61608bcd1781f59a296845d2d8",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 528,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "MinOptions2",
+    "record_sha256": "d6b4532bb0f547a4d51476a9f89a92a1ed61fb9626b9c1fbfc20bcc64f53ba4a",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 520,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "8cbfb81b74c97bd8a258ca63ddfafd2013a81ce3e70262e749362398a7f13e15",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 518,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "44a9c7db79105b3efdd6b0f2e28f3a6eaa19a0cd4ed63716075da74f1245f2e5",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 533,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "cf44829a9a49abe9ab84933a996f14ae136f9bc692e0d2bdbaf21c3b1158e300",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 519,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "7f78f0c1bd032eb1834ac3d14129d073e0fc805674fa842d46cfa59883b88277",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 524,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "95cae5f8b2d976d6b2b1b2d765231712292589f9fd177a3b9ee636498e6b27f6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 513,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "MinOptions2",
+    "record_sha256": "a760fca451ee5159545a36d3101e950516f1cd729e1a5c17582b8bad86c7719c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 522,
+    "instance": "sd2mix-test-25x10-60010",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "429df306840a5249890ff963cc9e9dc7dd3af429a8c31918dd5b6276f5df84a9",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1197,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "53e87b9fa8350dcd25fa40b847b36e7fef29d8d1d7a4b88885cbd6c0150f5c11",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1189,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2e635c2bf652525347bbf0b8de988101be7a82aedd237ce1f02f1be4d33f38bf",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1196,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "MinOptions2",
+    "record_sha256": "32f61b957c0a981f0bd8cae95d3bd165111be21e02e0bf304bfa87cc9094fec8",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1205,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "22a1dafde452b1c2389d15d1eb8fc9ac4166bbcb7e40fbaff19a83347fa8048a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1190,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "0e591b28e866cd01b7e68e78045c9ea89f48bcdb325a942245da40b74104992a",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1185,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "MinOptions2",
+    "record_sha256": "ce3ce944410ca9e384e8571edd42953ad1c91fd551de468c7cbf295699a06488",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1196,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "5922bf29b44c122eddb9fcd090ecee358df075b6b34df833c2bb4a5f44500ce7",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1177,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ee9013f0d6b4b0ad008fc5cd411d4a85fc47e23cd3ce2e18da99c3958c6f2b22",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1167,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "208add585a671b63747c63e8219e33808c42e9c7eaf1789e7715939cbb159cb5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1214,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "47e05c344973af83541b2faad22a5b269dc0678d33234e5f92492c4bc3ae7c2a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1187,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b08eda0b5ced07d2c5903954493d9d2b3852b35d39309eecf93d705bad31ab89",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1199,
+    "instance": "sd2mix-test-50x10-60011",
+    "method": "MinOptions2",
+    "record_sha256": "dc12fcf87cf5c9e622f5459d53b006b54b9285a7f285046bf21a123e60f84ad9",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 415,
+    "instance": "behnke20",
+    "method": "MinOptions2",
+    "record_sha256": "7b9321665066c6b01f4f415934c59cb53c54cb73845d8c00fa5f7269f1475868",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 499,
+    "instance": "behnke20",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "9c38578cacde176c26557745e8741815231b8c1f1711dd68ba6e687e1a66d05f",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 512,
+    "instance": "behnke20",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "1aa42e58813db1449e873d2983056917d50f997faf9187dc2edd658d33ff0cb5",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 413,
+    "instance": "behnke20",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "f3445bd7ff0822df30b56ea26f129053cc9ef7fd8ecb1c75b637eb7ace9c2b23",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 519,
+    "instance": "behnke20",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "26f49e8feba5f779d2bc1a78d01687416e70654e481fec19036664373215b134",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 415,
+    "instance": "behnke20",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "8081cbbc194f13075b15eaad5eb80f8e41772998f4e1802079305049bbc4b981",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 415,
+    "instance": "behnke20",
+    "method": "MinOptions2",
+    "record_sha256": "a53706e4a549657e64d7c752e09ff1c228ebd2a52489d473d3fb786e71c28b5e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 516,
+    "instance": "behnke20",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "7a08162cc31e204e28cf5c8f4884ae921d04622da0a4f1a1adbebfda97f973e3",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 508,
+    "instance": "behnke20",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "e688e1e8bcf06908f9b9f95295c61566f5c3a398dbd092359072a8cd808dd267",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 425,
+    "instance": "behnke20",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "725610997f0803b64dca0bff9a2b134023e70238b810e6a0ef9d36d43ae06bfc",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 427,
+    "instance": "behnke20",
+    "method": "MinOptions2",
+    "record_sha256": "5beef0b073bb16a4bd6e262ccbc51bcdc18b3d195aeddf3d2b66f0e3a4cace84",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 515,
+    "instance": "behnke20",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "16138b975beb128775db988bf5698078b5f5db70cea57294dab2702b7840562a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 243,
+    "instance": "behnke34",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "18cbe10c4aba6b3d5a039d7e8cf7f37116c8d2eac65186051a3523258e3eef55",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 226,
+    "instance": "behnke34",
+    "method": "MinOptions2",
+    "record_sha256": "9c4f7ec6d1c19a66675c93b9ae9d78c8b155992e1364d9fc39f0f429c09b651e",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 248,
+    "instance": "behnke34",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8569c84a7ce7f51cfa4c7860a588a0b1a97300a9bb0d7089f677886c42788ec2",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 229,
+    "instance": "behnke34",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "6b96a2103bbc737a582a66b6399e0266a1b19f5549710168c6ae08081cacedab",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 229,
+    "instance": "behnke34",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "8e2c2e74958ab13a30d5316ceccf1053e5fd037f54398ed5d1844c17ae05ab65",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 245,
+    "instance": "behnke34",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "eb83029d9e1a4c8668e482f6bfc191d46a3216c96832ccd8f845989d622ead67",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 245,
+    "instance": "behnke34",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "094b9ef4264d7e11ad57cc4b4293ad170bab92095a5450e3e910b6355d63d5c0",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 226,
+    "instance": "behnke34",
+    "method": "MinOptions2",
+    "record_sha256": "6a3bb2d370ec837a0564c5db54c3aa7abe884db5f3809ee130a58a8c03ec3e38",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 246,
+    "instance": "behnke34",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "b375a2299c2ee54f88acd181d20b3500ebc4c4349527cb531b88d914f2dd3c11",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 230,
+    "instance": "behnke34",
+    "method": "MinOptions2",
+    "record_sha256": "7d562e1957fd4220e9b1e79ca3f630198ca42e12ee9e9cba452e8459d20d0e77",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 249,
+    "instance": "behnke34",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "9aaaaaaa9c4788e09e899bf7e279928237e05d875fa91c01de4976080004d288",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 229,
+    "instance": "behnke34",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "234efef647e606b1a0d8cd4f014d1523c85d26a2ef170eccbd8046f0565ff1cc",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 543,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "09d910529943edbcec177ab9ed76a8239803f8623ade949351795f0d2094fe35",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 554,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "MinOptions2",
+    "record_sha256": "6771643a1e5b8d2bca156d49d367ebf2d50227a48ce7022052dbdb879b0b3e4c",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 574,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "3ee2bcfdb1d21c0aea7a049a19d9e5f8a71d9fe783aab9cd2f04ae581b37f4f9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 543,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "65a4ff651ba4b9cc9a8de75be425677f8efe26c91cd6f7631bb5783198b0f153",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 549,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "8dcb38ad90280d1342f7ea77c70d883d485f123c83885129ad00cb420f4472c8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 549,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8e309757e61da546b542bc26ad5642dbf152927abc1116fd34c6d3dd1fddbca3",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 555,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "MinOptions2",
+    "record_sha256": "7e37ddebd5d97c9c86b5a94231e19afe442fe7a17d5dda1dcdd2b0b4d9f40ac8",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 552,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "bfd643e73e49c056c059e713381fdb8ab46e37c5f46d428eed7983142827a79e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 550,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "MinOptions2",
+    "record_sha256": "8c3df76e21992efbc7d3bf6986421c359f60df1c1f0a66732e09ead6c20d7612",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 547,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b34dfe8efcf2c177c0d50fd782b4dc6b50a51aee78eb6381be961398c8dda0f4",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 544,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "da9eac3996af308fcb5b2a31a5393dd7ec57c8b1c075258461e200ca22e29177",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 550,
+    "instance": "sd2mix-test-25x10-60006",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "01debe8b5f537f8913844d27c96ad72685caf940fd13aed2429c46b49c7a7c6e",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1157,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "0f945ae76c4bd6a9eaffb7356a745ee4da9fe7618259051666e5f0eea8a81ba0",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1137,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "30f0cf216ad1d0ebf919d812a6cea03dbad29ab729a35bcb2ffeb894eea979ab",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1130,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "cc232f219df43436bdf236627e4db466555e779e6bdb8d0069cb552ed831135a",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1143,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "MinOptions2",
+    "record_sha256": "747ed25fba9dffb5d340007820b43d7af7a113af1ed0a9bb2cca378b6be4ea48",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1155,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "44a42782c77ff2b3675aa79f70994978de68ec8fb9aa9071c7d2bfac54137370",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1130,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "MinOptions2",
+    "record_sha256": "b4cb272c27daa4c68c06c07eb4c87af5a2ae1fa2a06f0d936bebbcc23f452da6",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1168,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "a2f365e522b708caee286c4d0854af393814dbed34686fcfb24befb5d98f498c",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1169,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "a8cfcdf49238109a254b8c0ebda512a1b6565b52f2949410005d34235a4d1160",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1158,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "42c38b64b5b3ec1df1014abd56bc4392ebee8df8a5d4a03ef74ef8265df2d89a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1156,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "MinOptions2",
+    "record_sha256": "ca2d4b94b25b272a9801e3edafe30928dab8b34216a481e8cf7cb5651f77f408",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1163,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "6faef5edf5baca06f93476b777c4c7019cc12f10098a431b2c6fc5f821201d9f",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1150,
+    "instance": "sd2mix-test-50x10-60002",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "877911d20c5a2548473fbd0deb34a088277b7aa02d3104c816bc32c177f923c5",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 413,
+    "instance": "behnke58",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "cf203813a8ef5a108afd6c9f0c2db24cbb01655ce7a4b1274e2e8a0d6adce45d",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 452,
+    "instance": "behnke58",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "8c37b6aa4c5c3a6a4cc763c08e99c2a177541d3e5875ab323f70c034180e7a74",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 417,
+    "instance": "behnke58",
+    "method": "MinOptions2",
+    "record_sha256": "77162d94aefec7d0638ae136538617e148922ce751c3420eb5df8fb4a4f0a57b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 457,
+    "instance": "behnke58",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "e79cc90906443a78ea57aff591969a25d79cb0518cff567c05d588389a91ea4c",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 407,
+    "instance": "behnke58",
+    "method": "MinOptions2",
+    "record_sha256": "84b3b44b5dec7939ec764927f19e6478294491d3291998bfda078eb212a7bca6",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 473,
+    "instance": "behnke58",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "4f597d366b79df2627268fea60626e9d2dc4631b8fd6314ae830ff5a0592a645",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 468,
+    "instance": "behnke58",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "5c895b3bd60d2f4bc6055cfac1759aa19a558b9f8f8766e02886247c4dba8d4d",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 410,
+    "instance": "behnke58",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "84b03028c9fd9ef3f8aff91e7c6458c418969fde8f314fd8ce7a61c1997f7135",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 422,
+    "instance": "behnke58",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ed567603a3d4b7c4b362b649224a6ad7f6676fa4c8bc6417e0e9c8637f6342a6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 460,
+    "instance": "behnke58",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "65c4b7dc6e43faa4a070359c57b6a3d692e330a3f395b42c6900c95f520ba735",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 421,
+    "instance": "behnke58",
+    "method": "MinOptions2",
+    "record_sha256": "2b454ee2d41f0195b90008d5a9ba299fd15dbd386cb4b5cd5e09980344ade96d",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 463,
+    "instance": "behnke58",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "fbbc2d9c581840d29bc5d07fcfeafafc842e571181e37b3a927d4e0f9ce7cf32",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 270,
+    "instance": "behnke14",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "b37c2542e2ea9b65ddeff9f63f18b95695479c3a593d1d6b53e8e02b3569aabc",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 251,
+    "instance": "behnke14",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "4f32b6ea817e921af7420b3eb5fd9c8d03dbf8cdc6465515286bfd5d959596d6",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 250,
+    "instance": "behnke14",
+    "method": "MinOptions2",
+    "record_sha256": "a91399112d05f981a3a75738c18b5095eda08c60021e96e1fb50efa03f47e6eb",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 276,
+    "instance": "behnke14",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "6415937a527f712caa75a95878b6ee4c720cbc41d4ff9ea2db7cad80a6b6ca0f",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 275,
+    "instance": "behnke14",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "845daea8c36f4737de3fd41109749190cbd1774cb508892479d0cd235dfed268",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 248,
+    "instance": "behnke14",
+    "method": "MinOptions2",
+    "record_sha256": "ed0297c947f2973f9bde6b59c691d385bb2727bbad84b84f559ab6c2389d29a4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 266,
+    "instance": "behnke14",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "bbcaf0ad37a6d305e054160b18bdf5bd4176c2fb0e2c168c848a7caa9ba7ada4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 254,
+    "instance": "behnke14",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "7828f38d59aa11155387e19e96dc8baff0520654569cf409cf480834e95b0a38",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 253,
+    "instance": "behnke14",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "3f63801d269be96f31c4c67c57a5a23076e0c2790035d8f10bed8e9d1ac4aa2f",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 267,
+    "instance": "behnke14",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "eeeff21646e2f48f1ab0538fe96bcd50e672729d8d623ddb0ac863fb7ea758b3",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 272,
+    "instance": "behnke14",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "2351496689ac7a4bbe1c5295ed1825128f70eef22a46f6603b7ba2f41d5bcc6e",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 251,
+    "instance": "behnke14",
+    "method": "MinOptions2",
+    "record_sha256": "29a51cff85139c4d85c7d7ef3e14f6302c8b6074950ad62a04b42a4b6a8a6025",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 616,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "MinOptions2",
+    "record_sha256": "cd7b099a8326ce7ca61f5c2d4318572749acbdb2d3d7b6f46a55bbf1915e6d94",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 615,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "432b1bca5aae01f5ab3b9182f5335cb7269189afc2ed78a145131eaa3cfd763b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 620,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "4c3104ed58ad9c1bb6f08669f086112c5909b66d2fecf612bb283a1d7b778e81",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 620,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "8c28a8a4db706b4d89f3bc3495c669908df574cb40b4d3fb96d6b7bdff841fe5",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 629,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "1de03e792bed4ba5748c3e23b49863948292da5921880dfa702fde0c16cf162f",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 626,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "46d20096d07077272afb75dc51eee6d1200544ca33abaf07734918a07592f0e5",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 609,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "MinOptions2",
+    "record_sha256": "2970c5d15780730e9fac9d0231b14a8b35ec89640f63829480d7fc29b85905fc",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 628,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "6326828a1878f4927b2b7c2f65984a4624649642ee70831b56568e037aa13e61",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 619,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "856ee9f2eb889c4291c986c5caab781ce29ea2f8f7c7f62af19cb2bcc1363857",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 613,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "0a8ea2e473179182426a38676d91fddf2a743027fb36e62472b06e4a9af17bab",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 611,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "MinOptions2",
+    "record_sha256": "d3479398f2ea6c3458289503d66b66f96bb621d8d673c55a3b4a59e8aa2e2254",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 628,
+    "instance": "sd2mix-test-25x10-60005",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "523f8645428efc68392be591c3028e478544c57aecead1b44904bc8720f7afba",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1116,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "3188bb5d15b0750fab9dab2c1ed9f4cce63ebb78b07a78f7d82f66357f07c838",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1123,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "MinOptions2",
+    "record_sha256": "6d18a6b2309fb63c6eb5dcbd61364baa99eee9a35df27c26783ed10afbed9eb1",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1114,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "0ab61e0bf5594f4612c31b781bf458ff3501cd62f97d69a378471c844c00b3ca",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1098,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "dff6f719fa6bc45afb9c2256c6a1188910380cbe86eabf65c279edde5f6d9443",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1100,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "d0d7e1ac463b2c8a911071244d14ce47a5280537c95244d68e34788852df805b",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1113,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "6f67f8791a43bf6b50960958d4fabb9eea5479676c512c901aec06d7a08f711d",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1120,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "a80652961766d0afb461a84f202d058480ee296b20cadeefa3319f946d9aadbe",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1125,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "MinOptions2",
+    "record_sha256": "310677e68b1944e72d2fb7179aeddca88170078d573126d9ab6ef765bb073cf0",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1097,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "6483473455a42661e7517cfb6fcc6a2acfa7b2b117bae8e9fb281911f4aade6b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1118,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "MinOptions2",
+    "record_sha256": "b4a85da7fa444c0a1c65655178e1d0455d315f553c6b1709bff9033e46008c8b",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1102,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "cdde7b30c5dfd30380a7916ec40d9737fb32481db3b45d4d7f52a3b1a0b8d624",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1100,
+    "instance": "sd2mix-test-50x10-60005",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "e140160d689f24573e0b3c142b37ddbf14e1d9382023815c4566b10a156c7e36",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 479,
+    "instance": "behnke36",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "ee4b460dc31f5db69dcbab7a30c6726a8f1e4b63aefc711714d1de2ee85697e6",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 399,
+    "instance": "behnke36",
+    "method": "MinOptions2",
+    "record_sha256": "578c30d9e18d6a8d07786c0620153353256e9f15f95a25818e83a9e63884c70f",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 400,
+    "instance": "behnke36",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "888235dd616ae8795bbcf3ed013861c2cd314b63966b4732b86121cd88acd13b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 480,
+    "instance": "behnke36",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "724e78c9665c0bd0f7ee853cd5fc9ff8122dc597c1781267ad55f69484a44c30",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 398,
+    "instance": "behnke36",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "794260d4d8f62e04b7565fcef0cd270ef3ad8edb475fed063d6a8db1cbcdad61",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 474,
+    "instance": "behnke36",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "05f7806c2fa7f0eb77b0e28baef2fe07fbecde9c53857163ec99a15d02a7d67e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 398,
+    "instance": "behnke36",
+    "method": "MinOptions2",
+    "record_sha256": "e11c3be91eb48b4981571ef18b37c39ca9ce87ce3357d50d307b149c852e740d",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 466,
+    "instance": "behnke36",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "b158edadd13cb3dd679d6c4fe4d7e7d37bb47c276ba56623b90aba28fee2b8d1",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 404,
+    "instance": "behnke36",
+    "method": "MinOptions2",
+    "record_sha256": "97864c290998492f44c0477147bb1181ad7a7bac57701d2ac4e98cb362ef181d",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 483,
+    "instance": "behnke36",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "305a7f62913b2dfdb768f394070f2c89610ce742058a01010b7302226b816080",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 470,
+    "instance": "behnke36",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "4ff7539a1f3b14be392eb4336df829281b223aef6633e1e7dc6adfe33ed0bf5e",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 408,
+    "instance": "behnke36",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "331c359553e3155ef4a7cf0cbb5007f1e623226be313e44d40c3afd7c74109b4",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 222,
+    "instance": "behnke53",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "1d296b08df5a32e440de96497ced5b1fddb058934ef54d2b0192f7288df894cc",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 235,
+    "instance": "behnke53",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "ee3dd85761e5ec2758a22499d044a9246f22afb822301e37099b021ea312ee39",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke53",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "487c120b62c11f76dce69d4a8e0647b901458197dcb0c14149f44e40e101aafc",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 219,
+    "instance": "behnke53",
+    "method": "MinOptions2",
+    "record_sha256": "3bff7a169eee21c9f01efdbc400eb39b3853941bbe0b008e2713991bc1b3a5cc",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke53",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "63ac708de682a0dc04a74f82c28e170f8b56ca1b1a0825cc0b4bd006dd824d94",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 221,
+    "instance": "behnke53",
+    "method": "MinOptions2",
+    "record_sha256": "d7abc7055213f7a9c9dd42ac26ff349c513f67911fb1377fc7c0a56a27f1c199",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 223,
+    "instance": "behnke53",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "dbd0080bfadd8685c6ff797a5fef8ff6781f4f9b43a4a4ec132341fabcf225e4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 231,
+    "instance": "behnke53",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "4424aeeab5014aebdd8246cbb9ca430883353cf5d242d70004accf00260e0c24",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 245,
+    "instance": "behnke53",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "9f9ec5b21aa0c015ffbeea86d3e61ce42df252af75044a11e0133b87c914f51f",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 223,
+    "instance": "behnke53",
+    "method": "MinOptions2",
+    "record_sha256": "2aa098ff8978fc378a02f538bba11208d2196289d5e89a1687199d8ad4e0422f",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 225,
+    "instance": "behnke53",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "07a90b8b127261110b7e0d13ae1d14de5669890b3716f05940927c802a318cde",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 240,
+    "instance": "behnke53",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "81bf6bf152d12e0dbe7d861d2d61771f35315b7a5559a49066b2a251369e070a",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 575,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "8a190e34d971817c6b4e9db3fe273fd4048f1698f4be592ace23f35e295e72e5",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 577,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "98ed7a992bbe2846f3819b121b5ba8403ae351b1266e8e19d456c48e9eb50987",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 588,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "MinOptions2",
+    "record_sha256": "b0196f7becd0dd332c1a404d8769438a5665972ed88599211cd25b137395b3d7",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 578,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "494de116f5820ea07ebe4a5d594f267721d4053429d42caae24852522d7ecafe",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 572,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "MinOptions2",
+    "record_sha256": "28def58203e6fef1a8837a3fb068b5e72fd2ccfa8c371b6ac01ead1d7eae40fe",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 579,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "0d90800541c1696b62ac887d59281550a8e15b668e72c6d07866318c1fe265b4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 574,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "7192edc94a323a2b9b3e74a516b0dd3b24565173aa2dce1a98d71659d8d36eac",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 568,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2b860b78d1d64504f49b709cbd5f476460696c2aa210c1a8d1f88209b0c26c91",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 571,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "bf271e0e2ae2189eedc382176ae2baeb419b39bf3835c5d89409edc947a322a7",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 579,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "3669e24c3878f939d0ae73494dc6deb5d44c1dff5b305971ce41bac9fde00485",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 579,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "MinOptions2",
+    "record_sha256": "a07477eb5369d89a0a997df3a4f1a62f0fe15524e515e03a8ff5a5900283696c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 586,
+    "instance": "sd2mix-test-25x10-60009",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "f43bc45682a86c1520c4bca1100f2e90dd46bfcf3accb826cabe1b11c570942c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1164,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "3fbf33e1376dee30da3b5388ff4b6a87858c6ffe20843b87d8b2f364bfcf803b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1156,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "ff265b18b3c3c0347ec2e8f9815f2e713b6f8a6e19707a29d7a2a6565a9eeab9",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1158,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "MinOptions2",
+    "record_sha256": "771a9f122ad9ebe1a8b1b5046da27a29f29bea853da9758aa79ee5c7d369fda2",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1184,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "044f02eea80ea93b032023cb2537b99853369e6f8447e77ee6b0dde2efa2cdd2",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 1192,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "6a77ceac81ef1920d9e3095ba42c4edb5399162f0b4d1ec391efbee942645499",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1158,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "MinOptions2",
+    "record_sha256": "00b9988287495058efccb28b40fccbb937ce07411cab3af3616d609ec0b9d21e",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1168,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "83f411eafcbbc91b8657cb6fc5f8e6d1bb87a22e7f1b3e3c7f00e4420265efb4",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1170,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "aeb6dc285336b57ac336ff7aff5b0fd2e015295ecfb0ed3ef1cd389fdc9b3c8c",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 1187,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "2e75f84a13eba44ec7e02947b713ecf1244d75d0d1be3582925357f13dfb0acc",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1163,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "657fa252ae552317234c6fe587d6fe502e0b2958e2b9e876b7a78a02243165b6",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1180,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "a5062a2887fbd9fe08f03194992f3b94c44038acdf1a86855c8196eb2c507ea7",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 1169,
+    "instance": "sd2mix-test-50x10-60001",
+    "method": "MinOptions2",
+    "record_sha256": "addea048eb75be95ea085028a84af9f36389efd97a06f2ab95d1f8ea2396aad8",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 436,
+    "instance": "behnke16",
+    "method": "MinOptions2",
+    "record_sha256": "f0e1f0b9032050c1d6ac1378d9c0753221add206c95ba0e5007497320b4f67ec",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 521,
+    "instance": "behnke16",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "dc511cf6255152fdbb6316f4bb3bdfced234a7a415c997b447808a6a91806c95",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 534,
+    "instance": "behnke16",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "fa972235991e5d13a08f992b4d3ec568cd8e6dd5c3fa232739793da831622c8b",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 437,
+    "instance": "behnke16",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "fe16f63a6926f8314d2a8fddb90ff28bc86d919532514bba9ddf42388c5e4cd6",
+    "seed": 42
+  },
+  {
+    "credited_Cmax": 551,
+    "instance": "behnke16",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "00278118dbb4c5e5280b5682c6d88f1c14cb4713282bf6fe8e7b81519b9698d5",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 439,
+    "instance": "behnke16",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "af9bd6faf5c0e69a1ed4ae952c055c99c136558b17e1a5e1800cb44f3523a569",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 439,
+    "instance": "behnke16",
+    "method": "MinOptions2",
+    "record_sha256": "0a071ac5c8f384b14cd6f941939d670b41ceffb752d00095189ef6d9a48ce36b",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 532,
+    "instance": "behnke16",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "507f3222f49c4ea779159b1179ecc114d756d545ea724064b32a2ba24521d693",
+    "seed": 43
+  },
+  {
+    "credited_Cmax": 534,
+    "instance": "behnke16",
+    "method": "Stall20-MinOptions2",
+    "record_sha256": "ad756034a419c634832be584af1a3529dc0f6d1bfb47dbcfb7daa0ac7e21a302",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 445,
+    "instance": "behnke16",
+    "method": "Tree2WithoutClock",
+    "record_sha256": "114bd6c33b34c7d6eede4ac0d3398c7e4e227e55d7b4e99e25f72542ba3af60c",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 443,
+    "instance": "behnke16",
+    "method": "MinOptions2",
+    "record_sha256": "c509061e1671709613345622806feb26cf2a2afa3b461e8c8ac1c9576cce9696",
+    "seed": 44
+  },
+  {
+    "credited_Cmax": 553,
+    "instance": "behnke16",
+    "method": "Stall35-MinOptions2",
+    "record_sha256": "556174b53597294fd5dee554bca8b5b72a826db0ae9049dc59cd9151d6cabe22",
+    "seed": 44
+  }
+]

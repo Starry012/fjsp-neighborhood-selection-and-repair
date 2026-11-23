@@ -1,0 +1,44 @@
+{
+  "completed_utc": "2026-11-22T09:34:39.823650+00:00",
+  "state": "COMPLETED",
+  "exit_code": 0,
+  "verified_return_sha256": "a82e810cf62dcf9e9fad57577426ecd6ae9470814c40ca4202caf5c3702dc266",
+  "report_sha256": "b2418889908e1480bb03e07ad2af0f79d38144011457af86416754abac4c5db7",
+  "release_sha256": "38574658482af84c9653cb7ef676714a068194de75842b06de140736a47133cc",
+  "registered_cases_sha256": "f368fd61d096e1f5dc231211c3edcef3748434757bc5474b3b005afe14ba2992",
+  "return_manifest_entries": 65,
+  "trial_record_hashes_checked_including_excluded": 1424,
+  "qualified_runs": {
+    "integration": 6,
+    "presolve": 48,
+    "main": 1296
+  },
+  "attempts_by_stage": {
+    "integration": {
+      "QUALIFIED": 2
+    },
+    "presolve": {
+      "QUALIFIED": 24,
+      "CONTENDED": 1
+    },
+    "main": {
+      "QUALIFIED": 144,
+      "CONTENDED": 9
+    }
+  },
+  "blocks_with_contention": {
+    "integration": 0,
+    "presolve": 1,
+    "main": 7
+  },
+  "global_bound_conflicts": 0,
+  "G8_presolve": false,
+  "G8_development_mean_Cmax_over_ECT": {
+    "CP-SAT-off": 0.9382540200620167,
+    "CP-SAT-on": 0.9442977009579875
+  },
+  "public_data_sha256": {
+    "observations.jsonl": "588e102afeb41d07e1e6c03fee8384fa6eac72fd7b26c8272266787d41d25eee",
+    "bounds.json": "033d05e7cf71c3c9bdfec14c3f072723792ff5e65f8ed7bb4630f3c3fb73724c"
+  }
+}

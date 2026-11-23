@@ -1,0 +1,674 @@
+{
+  "behnke55": {
+    "L": 77,
+    "L_sources": {
+      "integer_structural": 77,
+      "full-cp-sat-hinted-42-60s": 77,
+      "full-cp-sat-hinted-43-60s": 77,
+      "full-cp-sat-hinted-44-60s": 77
+    },
+    "best_verified": 227,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 221,
+      "upper_bound": 223,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60002": {
+    "L": 485,
+    "L_sources": {
+      "integer_structural": 485,
+      "full-cp-sat-hinted-42-60s": 317,
+      "full-cp-sat-hinted-43-60s": 317,
+      "full-cp-sat-hinted-44-60s": 317
+    },
+    "best_verified": 530,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60007": {
+    "L": 976,
+    "L_sources": {
+      "integer_structural": 976,
+      "full-cp-sat-hinted-42-60s": 361,
+      "full-cp-sat-hinted-43-60s": 361,
+      "full-cp-sat-hinted-44-60s": 361
+    },
+    "best_verified": 1077,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke60": {
+    "L": 101,
+    "L_sources": {
+      "integer_structural": 101,
+      "full-cp-sat-hinted-42-60s": 82,
+      "full-cp-sat-hinted-43-60s": 82,
+      "full-cp-sat-hinted-44-60s": 82
+    },
+    "best_verified": 405,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 397,
+      "upper_bound": 397,
+      "status": "closed"
+    }
+  },
+  "behnke32": {
+    "L": 77,
+    "L_sources": {
+      "integer_structural": 77,
+      "full-cp-sat-hinted-42-60s": 75,
+      "full-cp-sat-hinted-43-60s": 75,
+      "full-cp-sat-hinted-44-60s": 75
+    },
+    "best_verified": 228,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 220,
+      "upper_bound": 224,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60011": {
+    "L": 541,
+    "L_sources": {
+      "integer_structural": 541,
+      "full-cp-sat-hinted-42-60s": 356,
+      "full-cp-sat-hinted-43-60s": 356,
+      "full-cp-sat-hinted-44-60s": 356
+    },
+    "best_verified": 594,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60004": {
+    "L": 1041,
+    "L_sources": {
+      "integer_structural": 1041,
+      "full-cp-sat-hinted-42-60s": 374,
+      "full-cp-sat-hinted-43-60s": 374,
+      "full-cp-sat-hinted-44-60s": 374
+    },
+    "best_verified": 1146,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke57": {
+    "L": 99,
+    "L_sources": {
+      "integer_structural": 99,
+      "full-cp-sat-hinted-42-60s": 82,
+      "full-cp-sat-hinted-43-60s": 82,
+      "full-cp-sat-hinted-44-60s": 82
+    },
+    "best_verified": 400,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 385,
+      "upper_bound": 390,
+      "status": "open"
+    }
+  },
+  "behnke51": {
+    "L": 75,
+    "L_sources": {
+      "integer_structural": 75,
+      "full-cp-sat-hinted-42-60s": 75,
+      "full-cp-sat-hinted-43-60s": 75,
+      "full-cp-sat-hinted-44-60s": 75
+    },
+    "best_verified": 226,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 215,
+      "upper_bound": 218,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60007": {
+    "L": 518,
+    "L_sources": {
+      "integer_structural": 518,
+      "full-cp-sat-hinted-42-60s": 318,
+      "full-cp-sat-hinted-43-60s": 318,
+      "full-cp-sat-hinted-44-60s": 318
+    },
+    "best_verified": 566,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60006": {
+    "L": 1086,
+    "L_sources": {
+      "integer_structural": 1086,
+      "full-cp-sat-hinted-42-60s": 397,
+      "full-cp-sat-hinted-43-60s": 397,
+      "full-cp-sat-hinted-44-60s": 397
+    },
+    "best_verified": 1213,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke17": {
+    "L": 320,
+    "L_sources": {
+      "integer_structural": 320,
+      "full-cp-sat-hinted-42-60s": 79,
+      "full-cp-sat-hinted-43-60s": 79,
+      "full-cp-sat-hinted-44-60s": 79
+    },
+    "best_verified": 422,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 392,
+      "upper_bound": 401,
+      "status": "open"
+    }
+  },
+  "behnke33": {
+    "L": 77,
+    "L_sources": {
+      "integer_structural": 77,
+      "full-cp-sat-hinted-42-60s": 73,
+      "full-cp-sat-hinted-43-60s": 73,
+      "full-cp-sat-hinted-44-60s": 73
+    },
+    "best_verified": 233,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 224,
+      "upper_bound": 224,
+      "status": "closed"
+    }
+  },
+  "sd2mix-test-25x10-60003": {
+    "L": 561,
+    "L_sources": {
+      "integer_structural": 561,
+      "full-cp-sat-hinted-42-60s": 401,
+      "full-cp-sat-hinted-43-60s": 401,
+      "full-cp-sat-hinted-44-60s": 401
+    },
+    "best_verified": 617,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60000": {
+    "L": 977,
+    "L_sources": {
+      "integer_structural": 977,
+      "full-cp-sat-hinted-42-60s": 367,
+      "full-cp-sat-hinted-43-60s": 367,
+      "full-cp-sat-hinted-44-60s": 367
+    },
+    "best_verified": 1073,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke39": {
+    "L": 153,
+    "L_sources": {
+      "integer_structural": 153,
+      "full-cp-sat-hinted-42-60s": 81,
+      "full-cp-sat-hinted-43-60s": 81,
+      "full-cp-sat-hinted-44-60s": 81
+    },
+    "best_verified": 399,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 384,
+      "upper_bound": 389,
+      "status": "open"
+    }
+  },
+  "behnke15": {
+    "L": 159,
+    "L_sources": {
+      "integer_structural": 159,
+      "full-cp-sat-hinted-42-60s": 86,
+      "full-cp-sat-hinted-43-60s": 86,
+      "full-cp-sat-hinted-44-60s": 86
+    },
+    "best_verified": 242,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 220,
+      "upper_bound": 228,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60001": {
+    "L": 501,
+    "L_sources": {
+      "integer_structural": 501,
+      "full-cp-sat-hinted-42-60s": 262,
+      "full-cp-sat-hinted-43-60s": 262,
+      "full-cp-sat-hinted-44-60s": 262
+    },
+    "best_verified": 550,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60009": {
+    "L": 1115,
+    "L_sources": {
+      "integer_structural": 1115,
+      "full-cp-sat-hinted-42-60s": 460,
+      "full-cp-sat-hinted-43-60s": 460,
+      "full-cp-sat-hinted-44-60s": 460
+    },
+    "best_verified": 1226,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke38": {
+    "L": 151,
+    "L_sources": {
+      "integer_structural": 151,
+      "full-cp-sat-hinted-42-60s": 77,
+      "full-cp-sat-hinted-43-60s": 77,
+      "full-cp-sat-hinted-44-60s": 77
+    },
+    "best_verified": 406,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 387,
+      "upper_bound": 389,
+      "status": "open"
+    }
+  },
+  "behnke35": {
+    "L": 79,
+    "L_sources": {
+      "integer_structural": 79,
+      "full-cp-sat-hinted-42-60s": 79,
+      "full-cp-sat-hinted-43-60s": 79,
+      "full-cp-sat-hinted-44-60s": 79
+    },
+    "best_verified": 217,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 211,
+      "upper_bound": 214,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60000": {
+    "L": 497,
+    "L_sources": {
+      "integer_structural": 497,
+      "full-cp-sat-hinted-42-60s": 311,
+      "full-cp-sat-hinted-43-60s": 311,
+      "full-cp-sat-hinted-44-60s": 311
+    },
+    "best_verified": 537,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60008": {
+    "L": 1042,
+    "L_sources": {
+      "integer_structural": 1042,
+      "full-cp-sat-hinted-42-60s": 329,
+      "full-cp-sat-hinted-43-60s": 329,
+      "full-cp-sat-hinted-44-60s": 329
+    },
+    "best_verified": 1136,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke37": {
+    "L": 153,
+    "L_sources": {
+      "integer_structural": 153,
+      "full-cp-sat-hinted-42-60s": 76,
+      "full-cp-sat-hinted-43-60s": 76,
+      "full-cp-sat-hinted-44-60s": 76
+    },
+    "best_verified": 407,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 387,
+      "upper_bound": 391,
+      "status": "open"
+    }
+  },
+  "behnke52": {
+    "L": 76,
+    "L_sources": {
+      "integer_structural": 76,
+      "full-cp-sat-hinted-42-60s": 76,
+      "full-cp-sat-hinted-43-60s": 76,
+      "full-cp-sat-hinted-44-60s": 76
+    },
+    "best_verified": 221,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 211,
+      "upper_bound": 211,
+      "status": "closed"
+    }
+  },
+  "sd2mix-test-25x10-60004": {
+    "L": 461,
+    "L_sources": {
+      "integer_structural": 461,
+      "full-cp-sat-hinted-42-60s": 402,
+      "full-cp-sat-hinted-43-60s": 402,
+      "full-cp-sat-hinted-44-60s": 402
+    },
+    "best_verified": 510,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60010": {
+    "L": 928,
+    "L_sources": {
+      "integer_structural": 928,
+      "full-cp-sat-hinted-42-60s": 330,
+      "full-cp-sat-hinted-43-60s": 330,
+      "full-cp-sat-hinted-44-60s": 330
+    },
+    "best_verified": 1010,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke40": {
+    "L": 156,
+    "L_sources": {
+      "integer_structural": 156,
+      "full-cp-sat-hinted-42-60s": 84,
+      "full-cp-sat-hinted-43-60s": 84,
+      "full-cp-sat-hinted-44-60s": 84
+    },
+    "best_verified": 429,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 415,
+      "upper_bound": 419,
+      "status": "open"
+    }
+  },
+  "behnke11": {
+    "L": 163,
+    "L_sources": {
+      "integer_structural": 163,
+      "full-cp-sat-hinted-42-60s": 79,
+      "full-cp-sat-hinted-43-60s": 79,
+      "full-cp-sat-hinted-44-60s": 79
+    },
+    "best_verified": 240,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 223,
+      "upper_bound": 228,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60008": {
+    "L": 550,
+    "L_sources": {
+      "integer_structural": 550,
+      "full-cp-sat-hinted-42-60s": 333,
+      "full-cp-sat-hinted-43-60s": 333,
+      "full-cp-sat-hinted-44-60s": 333
+    },
+    "best_verified": 602,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60003": {
+    "L": 980,
+    "L_sources": {
+      "integer_structural": 980,
+      "full-cp-sat-hinted-42-60s": 334,
+      "full-cp-sat-hinted-43-60s": 334,
+      "full-cp-sat-hinted-44-60s": 334
+    },
+    "best_verified": 1092,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke56": {
+    "L": 99,
+    "L_sources": {
+      "integer_structural": 99,
+      "full-cp-sat-hinted-42-60s": 77,
+      "full-cp-sat-hinted-43-60s": 77,
+      "full-cp-sat-hinted-44-60s": 77
+    },
+    "best_verified": 401,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 384,
+      "upper_bound": 390,
+      "status": "open"
+    }
+  },
+  "behnke54": {
+    "L": 75,
+    "L_sources": {
+      "integer_structural": 75,
+      "full-cp-sat-hinted-42-60s": 75,
+      "full-cp-sat-hinted-43-60s": 75,
+      "full-cp-sat-hinted-44-60s": 75
+    },
+    "best_verified": 234,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 221,
+      "upper_bound": 223,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60010": {
+    "L": 472,
+    "L_sources": {
+      "integer_structural": 472,
+      "full-cp-sat-hinted-42-60s": 281,
+      "full-cp-sat-hinted-43-60s": 281,
+      "full-cp-sat-hinted-44-60s": 281
+    },
+    "best_verified": 510,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60011": {
+    "L": 1062,
+    "L_sources": {
+      "integer_structural": 1062,
+      "full-cp-sat-hinted-42-60s": 365,
+      "full-cp-sat-hinted-43-60s": 365,
+      "full-cp-sat-hinted-44-60s": 365
+    },
+    "best_verified": 1167,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke20": {
+    "L": 322,
+    "L_sources": {
+      "integer_structural": 322,
+      "full-cp-sat-hinted-42-60s": 81,
+      "full-cp-sat-hinted-43-60s": 81,
+      "full-cp-sat-hinted-44-60s": 81
+    },
+    "best_verified": 413,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 391,
+      "upper_bound": 398,
+      "status": "open"
+    }
+  },
+  "behnke34": {
+    "L": 78,
+    "L_sources": {
+      "integer_structural": 78,
+      "full-cp-sat-hinted-42-60s": 78,
+      "full-cp-sat-hinted-43-60s": 78,
+      "full-cp-sat-hinted-44-60s": 78
+    },
+    "best_verified": 226,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 219,
+      "upper_bound": 223,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60006": {
+    "L": 501,
+    "L_sources": {
+      "integer_structural": 501,
+      "full-cp-sat-hinted-42-60s": 386,
+      "full-cp-sat-hinted-43-60s": 386,
+      "full-cp-sat-hinted-44-60s": 386
+    },
+    "best_verified": 543,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60002": {
+    "L": 1028,
+    "L_sources": {
+      "integer_structural": 1028,
+      "full-cp-sat-hinted-42-60s": 346,
+      "full-cp-sat-hinted-43-60s": 346,
+      "full-cp-sat-hinted-44-60s": 346
+    },
+    "best_verified": 1130,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke58": {
+    "L": 100,
+    "L_sources": {
+      "integer_structural": 100,
+      "full-cp-sat-hinted-42-60s": 74,
+      "full-cp-sat-hinted-43-60s": 74,
+      "full-cp-sat-hinted-44-60s": 74
+    },
+    "best_verified": 407,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 392,
+      "upper_bound": 397,
+      "status": "open"
+    }
+  },
+  "behnke14": {
+    "L": 164,
+    "L_sources": {
+      "integer_structural": 164,
+      "full-cp-sat-hinted-42-60s": 90,
+      "full-cp-sat-hinted-43-60s": 90,
+      "full-cp-sat-hinted-44-60s": 90
+    },
+    "best_verified": 247,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 221,
+      "upper_bound": 230,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60005": {
+    "L": 556,
+    "L_sources": {
+      "integer_structural": 556,
+      "full-cp-sat-hinted-42-60s": 329,
+      "full-cp-sat-hinted-43-60s": 329,
+      "full-cp-sat-hinted-44-60s": 329
+    },
+    "best_verified": 609,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60005": {
+    "L": 1001,
+    "L_sources": {
+      "integer_structural": 1001,
+      "full-cp-sat-hinted-42-60s": 348,
+      "full-cp-sat-hinted-43-60s": 348,
+      "full-cp-sat-hinted-44-60s": 348
+    },
+    "best_verified": 1095,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke36": {
+    "L": 152,
+    "L_sources": {
+      "integer_structural": 152,
+      "full-cp-sat-hinted-42-60s": 77,
+      "full-cp-sat-hinted-43-60s": 77,
+      "full-cp-sat-hinted-44-60s": 77
+    },
+    "best_verified": 398,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 381,
+      "upper_bound": 388,
+      "status": "open"
+    }
+  },
+  "behnke53": {
+    "L": 74,
+    "L_sources": {
+      "integer_structural": 74,
+      "full-cp-sat-hinted-42-60s": 74,
+      "full-cp-sat-hinted-43-60s": 74,
+      "full-cp-sat-hinted-44-60s": 74
+    },
+    "best_verified": 219,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 212,
+      "upper_bound": 215,
+      "status": "open"
+    }
+  },
+  "sd2mix-test-25x10-60009": {
+    "L": 521,
+    "L_sources": {
+      "integer_structural": 521,
+      "full-cp-sat-hinted-42-60s": 361,
+      "full-cp-sat-hinted-43-60s": 361,
+      "full-cp-sat-hinted-44-60s": 361
+    },
+    "best_verified": 568,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "sd2mix-test-50x10-60001": {
+    "L": 1046,
+    "L_sources": {
+      "integer_structural": 1046,
+      "full-cp-sat-hinted-42-60s": 324,
+      "full-cp-sat-hinted-43-60s": 324,
+      "full-cp-sat-hinted-44-60s": 324
+    },
+    "best_verified": 1156,
+    "proved_optimum": null,
+    "historical": null
+  },
+  "behnke16": {
+    "L": 327,
+    "L_sources": {
+      "integer_structural": 327,
+      "full-cp-sat-hinted-42-60s": 86,
+      "full-cp-sat-hinted-43-60s": 86,
+      "full-cp-sat-hinted-44-60s": 86
+    },
+    "best_verified": 436,
+    "proved_optimum": null,
+    "historical": {
+      "lower_bound": 392,
+      "upper_bound": 412,
+      "status": "open"
+    }
+  }
+}

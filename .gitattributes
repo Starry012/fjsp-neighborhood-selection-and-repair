@@ -1,0 +1,3 @@
+engine/** -text
+results/*.json text eol=lf
+results/*.jsonl text eol=lf

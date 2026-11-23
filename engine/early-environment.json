@@ -1,0 +1,12 @@
+{
+  "compiler": "g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0",
+  "flags": [
+    "-std=c++17",
+    "-O3",
+    "-DNDEBUG"
+  ],
+  "numpy": "2.5.4",
+  "ortools": "9.15.6755",
+  "python": "3.14.10",
+  "python_build": "3.14.10 | packaged by conda-forge | (main, Oct 26 2026, 11:35:38) [GCC 15.3.0]"
+}

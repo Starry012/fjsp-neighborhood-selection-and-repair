@@ -1,0 +1,13 @@
+{
+  "protocol": "v3-ranker-development-1",
+  "python": "3.12.7",
+  "torch": "2.6.0+cu126",
+  "label_config_sha256": "a54c2ca6611cdaa2aa39ed7bcba391718cd113b589966a1d654161436bb4a702",
+  "seeds": [42, 43, 44],
+  "width": 32,
+  "epochs": 24,
+  "learning_rate": 0.003,
+  "cpu_threads": 1,
+  "inference_repeats": 7,
+  "replay_total_ms": 500
+}

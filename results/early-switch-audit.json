@@ -1,0 +1,14 @@
+{
+  "qualified": 576,
+  "cases": 48,
+  "attempts": {
+    "QUALIFIED": 288,
+    "CONTENDED": 3
+  },
+  "verified_record_digests": 581,
+  "return_sha256": "1b1db95cdb43d2076321200a1d21b9ef7ce3ebbb905ed94ad737f849dc6de07c",
+  "release_sha256": "8552d580c14809551cabe44e2b257aa6ce1effbf7d9b417f6a76010448fdeeae",
+  "verified_manifest_entries": 39,
+  "selected_seconds": 10,
+  "observations_sha256": "f1215daca146df238532be821f66335b40a80864c502181165659eab5f3d570a"
+}

@@ -1,0 +1,40 @@
+{
+  "case_names": [
+    "behnke12",
+    "behnke13",
+    "behnke31",
+    "behnke59",
+    "behnke19",
+    "behnke18"
+  ],
+  "cp_model_presolve": false,
+  "failure_policy": "Retain every planned task. A late final delivery is a failure; credit only an ECT fallback independently verified and written before the deadline. Missing fallback gives missing quality, never drop the task.",
+  "final_reserve_ms": 200,
+  "holdout_used": false,
+  "methods": [
+    "original-strong",
+    "active-strict",
+    "full-cp-sat-hinted"
+  ],
+  "minimum_random_remaining_ms": 100,
+  "old_global_reserve_ms": 20,
+  "old_return_reserve_ms": 5,
+  "order_seed": 20261107,
+  "protocol": "v4-active-baseline-60s-2-nopresolve",
+  "random_reserve_ms": 10,
+  "random_size": 64,
+  "ranking_budget_input_ms": 200,
+  "ranking_seed": 42,
+  "repair_ms": 1000,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "source_config": "experiments/v3_ranker_blind.json",
+  "source_config_sha256": "b27dea7a5547a4e6ee48af8710dc9d9c75e74b200daa41e6e9eb5b30b9fcd7a0",
+  "stage": "exposed-development-comparison",
+  "timing": "Input read, SHA256, JSON parse, ECT, local support/weight loading, candidate generation/ranking, repair, verification, and schedule-file delivery are charged. Interpreter imports and diagnostic log serialization are outside each trial.",
+  "total_ms": 60000,
+  "workers": 1
+}
